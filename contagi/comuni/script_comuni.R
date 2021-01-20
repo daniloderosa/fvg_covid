@@ -42,5 +42,5 @@ fvgjoin <- left_join(fvg,fvg_popolazione, by="ISTAT")
 fvg <- fvgjoin
 rm(list = c("fvg_nuovi_senza_popolazione","fvg_popolazione","fvgjoin"))
 
-write_csv(fvg, file=paste0("data/comuni_fvg_",ieri,".csv"), na="")
+write_csv(fvg, file="data/comuni_fvg.csv", na="")
 #write_delim(fvg, file="fvg_casi.csv", delim = ";", na="")
