@@ -47,5 +47,5 @@ fvg_ieri <- fvg %>%
     data == ieri
   )
 
-write_csv(fvg_ieri, file = paste0("data/fvg_", ieri, ".csv"))
+write_csv(fvg_ieri, file = "data/fvg_latest.csv")
 write_csv(fvg, file = "data/fvg_complessivo.csv")
