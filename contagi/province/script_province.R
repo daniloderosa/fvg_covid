@@ -34,11 +34,11 @@ province_fvg <- province_fvg %>%
     nuovi_positivi_media_mobile = round(rollmeanr(casi_giornalieri, k = 7, fill = 0))
   )
 
-ieri = Sys.Date()-1
-province_fvg_ieri <- province_fvg %>% 
+oggi = Sys.Date()
+province_fvg_oggi <- province_fvg %>% 
   filter(
-    data == ieri
+    data == oggi
   )
 
-write_csv(province_fvg_ieri, file = "data/province_fvg_latest.csv")
+write_csv(province_fvg_oggi, file = "data/province_fvg_latest.csv")
 write_csv(province_fvg, file = "data/province_fvg_complessivo.csv")
