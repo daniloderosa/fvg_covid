@@ -40,5 +40,5 @@ province_fvg_ieri <- province_fvg %>%
     data == ieri
   )
 
-write_csv(province_fvg_ieri, file = paste0("data/province_fvg_", ieri, ".csv"))
+write_csv(province_fvg_ieri, file = "data/province_fvg_latest.csv")
 write_csv(province_fvg, file = "data/province_fvg_complessivo.csv")
