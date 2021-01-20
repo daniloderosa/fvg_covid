@@ -1,0 +1,1534 @@
+data,codice_provincia,denominazione_provincia,sigla_provincia,totale_casi,casi_giornalieri,nuovi_positivi_media_mobile
+2020-02-24,30,Udine,UD,0,NA,0
+2020-02-24,31,Gorizia,GO,0,NA,0
+2020-02-24,32,Trieste,TS,0,NA,0
+2020-02-24,93,Pordenone,PN,0,NA,0
+2020-02-25,30,Udine,UD,0,0,0
+2020-02-25,31,Gorizia,GO,0,0,0
+2020-02-25,32,Trieste,TS,0,0,0
+2020-02-25,93,Pordenone,PN,0,0,0
+2020-02-26,30,Udine,UD,0,0,0
+2020-02-26,31,Gorizia,GO,0,0,0
+2020-02-26,32,Trieste,TS,0,0,0
+2020-02-26,93,Pordenone,PN,0,0,0
+2020-02-27,30,Udine,UD,0,0,0
+2020-02-27,31,Gorizia,GO,0,0,0
+2020-02-27,32,Trieste,TS,0,0,0
+2020-02-27,93,Pordenone,PN,0,0,0
+2020-02-28,30,Udine,UD,0,0,0
+2020-02-28,31,Gorizia,GO,0,0,0
+2020-02-28,32,Trieste,TS,0,0,0
+2020-02-28,93,Pordenone,PN,0,0,0
+2020-02-29,30,Udine,UD,0,0,0
+2020-02-29,31,Gorizia,GO,0,0,0
+2020-02-29,32,Trieste,TS,0,0,0
+2020-02-29,93,Pordenone,PN,0,0,0
+2020-03-01,30,Udine,UD,0,0,NA
+2020-03-01,31,Gorizia,GO,0,0,NA
+2020-03-01,32,Trieste,TS,6,6,NA
+2020-03-01,93,Pordenone,PN,0,0,NA
+2020-03-02,30,Udine,UD,0,0,0
+2020-03-02,31,Gorizia,GO,0,0,0
+2020-03-02,32,Trieste,TS,9,3,1
+2020-03-02,93,Pordenone,PN,0,0,0
+2020-03-03,30,Udine,UD,8,8,1
+2020-03-03,31,Gorizia,GO,3,3,0
+2020-03-03,32,Trieste,TS,2,-7,0
+2020-03-03,93,Pordenone,PN,0,0,0
+2020-03-04,30,Udine,UD,8,0,1
+2020-03-04,31,Gorizia,GO,5,2,1
+2020-03-04,32,Trieste,TS,5,3,1
+2020-03-04,93,Pordenone,PN,0,0,0
+2020-03-05,30,Udine,UD,11,3,2
+2020-03-05,31,Gorizia,GO,5,0,1
+2020-03-05,32,Trieste,TS,5,0,1
+2020-03-05,93,Pordenone,PN,0,0,0
+2020-03-06,30,Udine,UD,18,7,3
+2020-03-06,31,Gorizia,GO,6,1,1
+2020-03-06,32,Trieste,TS,7,2,1
+2020-03-06,93,Pordenone,PN,0,0,0
+2020-03-07,30,Udine,UD,23,5,3
+2020-03-07,31,Gorizia,GO,6,0,1
+2020-03-07,32,Trieste,TS,11,4,2
+2020-03-07,93,Pordenone,PN,2,2,0
+2020-03-08,30,Udine,UD,24,1,3
+2020-03-08,31,Gorizia,GO,6,0,1
+2020-03-08,32,Trieste,TS,25,14,3
+2020-03-08,93,Pordenone,PN,2,0,0
+2020-03-09,30,Udine,UD,24,0,3
+2020-03-09,31,Gorizia,GO,6,0,1
+2020-03-09,32,Trieste,TS,25,0,2
+2020-03-09,93,Pordenone,PN,2,0,0
+2020-03-10,30,Udine,UD,26,2,3
+2020-03-10,31,Gorizia,GO,10,4,1
+2020-03-10,32,Trieste,TS,53,28,7
+2020-03-10,93,Pordenone,PN,4,2,1
+2020-03-11,30,Udine,UD,44,18,5
+2020-03-11,31,Gorizia,GO,12,2,1
+2020-03-11,32,Trieste,TS,57,4,7
+2020-03-11,93,Pordenone,PN,13,9,2
+2020-03-12,30,Udine,UD,44,0,5
+2020-03-12,31,Gorizia,GO,12,0,1
+2020-03-12,32,Trieste,TS,57,0,7
+2020-03-12,93,Pordenone,PN,13,0,2
+2020-03-13,30,Udine,UD,75,31,8
+2020-03-13,31,Gorizia,GO,20,8,2
+2020-03-13,32,Trieste,TS,131,74,18
+2020-03-13,93,Pordenone,PN,31,18,4
+2020-03-14,30,Udine,UD,88,13,9
+2020-03-14,31,Gorizia,GO,20,0,2
+2020-03-14,32,Trieste,TS,148,17,20
+2020-03-14,93,Pordenone,PN,45,14,6
+2020-03-15,30,Udine,UD,129,41,15
+2020-03-15,31,Gorizia,GO,31,11,4
+2020-03-15,32,Trieste,TS,140,-8,16
+2020-03-15,93,Pordenone,PN,42,-3,6
+2020-03-16,30,Udine,UD,152,23,18
+2020-03-16,31,Gorizia,GO,16,-15,1
+2020-03-16,32,Trieste,TS,164,24,20
+2020-03-16,93,Pordenone,PN,54,12,7
+2020-03-17,30,Udine,UD,145,-7,17
+2020-03-17,31,Gorizia,GO,18,2,1
+2020-03-17,32,Trieste,TS,177,13,18
+2020-03-17,93,Pordenone,PN,54,0,7
+2020-03-18,30,Udine,UD,181,36,20
+2020-03-18,31,Gorizia,GO,25,7,2
+2020-03-18,32,Trieste,TS,180,3,18
+2020-03-18,93,Pordenone,PN,76,22,9
+2020-03-19,30,Udine,UD,266,85,32
+2020-03-19,31,Gorizia,GO,28,3,2
+2020-03-19,32,Trieste,TS,208,28,22
+2020-03-19,93,Pordenone,PN,97,21,12
+2020-03-20,30,Udine,UD,296,30,32
+2020-03-20,31,Gorizia,GO,30,2,1
+2020-03-20,32,Trieste,TS,216,8,12
+2020-03-20,93,Pordenone,PN,114,17,12
+2020-03-21,30,Udine,UD,338,42,36
+2020-03-21,31,Gorizia,GO,38,8,3
+2020-03-21,32,Trieste,TS,270,54,17
+2020-03-21,93,Pordenone,PN,144,30,14
+2020-03-22,30,Udine,UD,361,23,33
+2020-03-22,31,Gorizia,GO,44,6,2
+2020-03-22,32,Trieste,TS,297,27,22
+2020-03-22,93,Pordenone,PN,165,21,18
+2020-03-23,30,Udine,UD,385,24,33
+2020-03-23,31,Gorizia,GO,55,11,6
+2020-03-23,32,Trieste,TS,320,23,22
+2020-03-23,93,Pordenone,PN,170,5,17
+2020-03-24,30,Udine,UD,405,20,37
+2020-03-24,31,Gorizia,GO,57,2,6
+2020-03-24,32,Trieste,TS,329,9,22
+2020-03-24,93,Pordenone,PN,201,31,21
+2020-03-25,30,Udine,UD,431,26,36
+2020-03-25,31,Gorizia,GO,65,8,6
+2020-03-25,32,Trieste,TS,355,26,25
+2020-03-25,93,Pordenone,PN,277,76,29
+2020-03-26,30,Udine,UD,460,29,28
+2020-03-26,31,Gorizia,GO,75,10,7
+2020-03-26,32,Trieste,TS,385,30,25
+2020-03-26,93,Pordenone,PN,295,18,28
+2020-03-27,30,Udine,UD,487,27,27
+2020-03-27,31,Gorizia,GO,79,4,7
+2020-03-27,32,Trieste,TS,411,26,28
+2020-03-27,93,Pordenone,PN,332,37,31
+2020-03-28,30,Udine,UD,530,43,27
+2020-03-28,31,Gorizia,GO,85,6,7
+2020-03-28,32,Trieste,TS,452,41,26
+2020-03-28,93,Pordenone,PN,362,30,31
+2020-03-29,30,Udine,UD,536,6,25
+2020-03-29,31,Gorizia,GO,91,6,7
+2020-03-29,32,Trieste,TS,476,24,26
+2020-03-29,93,Pordenone,PN,368,6,29
+2020-03-30,30,Udine,UD,524,-12,20
+2020-03-30,31,Gorizia,GO,91,0,5
+2020-03-30,32,Trieste,TS,494,18,25
+2020-03-30,93,Pordenone,PN,383,15,30
+2020-03-31,30,Udine,UD,536,12,19
+2020-03-31,31,Gorizia,GO,98,7,6
+2020-03-31,32,Trieste,TS,545,51,31
+2020-03-31,93,Pordenone,PN,405,22,29
+2020-04-01,30,Udine,UD,576,40,21
+2020-04-01,31,Gorizia,GO,106,8,6
+2020-04-01,32,Trieste,TS,575,30,31
+2020-04-01,93,Pordenone,PN,419,14,20
+2020-04-02,30,Udine,UD,641,65,26
+2020-04-02,31,Gorizia,GO,110,4,5
+2020-04-02,32,Trieste,TS,598,23,30
+2020-04-02,93,Pordenone,PN,441,22,21
+2020-04-03,30,Udine,UD,681,40,28
+2020-04-03,31,Gorizia,GO,111,1,5
+2020-04-03,32,Trieste,TS,629,31,31
+2020-04-03,93,Pordenone,PN,452,11,17
+2020-04-04,30,Udine,UD,754,73,32
+2020-04-04,31,Gorizia,GO,115,4,4
+2020-04-04,32,Trieste,TS,651,22,28
+2020-04-04,93,Pordenone,PN,461,9,14
+2020-04-05,30,Udine,UD,786,32,36
+2020-04-05,31,Gorizia,GO,116,1,4
+2020-04-05,32,Trieste,TS,670,19,28
+2020-04-05,93,Pordenone,PN,470,9,15
+2020-04-06,30,Udine,UD,793,7,38
+2020-04-06,31,Gorizia,GO,119,3,4
+2020-04-06,32,Trieste,TS,708,38,31
+2020-04-06,93,Pordenone,PN,477,7,13
+2020-04-07,30,Udine,UD,813,20,40
+2020-04-07,31,Gorizia,GO,119,0,3
+2020-04-07,32,Trieste,TS,733,25,27
+2020-04-07,93,Pordenone,PN,480,3,11
+2020-04-08,30,Udine,UD,830,17,36
+2020-04-08,31,Gorizia,GO,121,2,2
+2020-04-08,32,Trieste,TS,763,30,27
+2020-04-08,93,Pordenone,PN,497,17,11
+2020-04-09,30,Udine,UD,839,9,28
+2020-04-09,31,Gorizia,GO,120,-1,1
+2020-04-09,32,Trieste,TS,821,58,32
+2020-04-09,93,Pordenone,PN,513,16,10
+2020-04-10,30,Udine,UD,845,6,23
+2020-04-10,31,Gorizia,GO,121,1,1
+2020-04-10,32,Trieste,TS,857,36,33
+2020-04-10,93,Pordenone,PN,520,7,10
+2020-04-11,30,Udine,UD,865,20,16
+2020-04-11,31,Gorizia,GO,121,0,1
+2020-04-11,32,Trieste,TS,872,15,32
+2020-04-11,93,Pordenone,PN,529,9,10
+2020-04-12,30,Udine,UD,873,8,12
+2020-04-12,31,Gorizia,GO,123,2,1
+2020-04-12,32,Trieste,TS,890,18,31
+2020-04-12,93,Pordenone,PN,539,10,10
+2020-04-13,30,Udine,UD,884,11,13
+2020-04-13,31,Gorizia,GO,127,4,1
+2020-04-13,32,Trieste,TS,916,26,30
+2020-04-13,93,Pordenone,PN,547,8,10
+2020-04-14,30,Udine,UD,890,6,11
+2020-04-14,31,Gorizia,GO,129,2,1
+2020-04-14,32,Trieste,TS,945,29,30
+2020-04-14,93,Pordenone,PN,551,4,10
+2020-04-15,30,Udine,UD,891,1,9
+2020-04-15,31,Gorizia,GO,130,1,1
+2020-04-15,32,Trieste,TS,961,16,28
+2020-04-15,93,Pordenone,PN,557,6,9
+2020-04-16,30,Udine,UD,895,4,8
+2020-04-16,31,Gorizia,GO,132,2,2
+2020-04-16,32,Trieste,TS,1011,50,27
+2020-04-16,93,Pordenone,PN,573,16,9
+2020-04-17,30,Udine,UD,897,2,7
+2020-04-17,31,Gorizia,GO,132,0,2
+2020-04-17,32,Trieste,TS,1067,56,30
+2020-04-17,93,Pordenone,PN,574,1,8
+2020-04-18,30,Udine,UD,906,9,6
+2020-04-18,31,Gorizia,GO,131,-1,1
+2020-04-18,32,Trieste,TS,1102,35,33
+2020-04-18,93,Pordenone,PN,587,13,8
+2020-04-19,30,Udine,UD,910,4,5
+2020-04-19,31,Gorizia,GO,132,1,1
+2020-04-19,32,Trieste,TS,1108,6,31
+2020-04-19,93,Pordenone,PN,591,4,7
+2020-04-20,30,Udine,UD,915,5,4
+2020-04-20,31,Gorizia,GO,138,6,2
+2020-04-20,32,Trieste,TS,1122,14,29
+2020-04-20,93,Pordenone,PN,596,5,7
+2020-04-21,30,Udine,UD,921,6,4
+2020-04-21,31,Gorizia,GO,143,5,2
+2020-04-21,32,Trieste,TS,1125,3,26
+2020-04-21,93,Pordenone,PN,599,3,7
+2020-04-22,30,Udine,UD,929,8,5
+2020-04-22,31,Gorizia,GO,149,6,3
+2020-04-22,32,Trieste,TS,1136,11,25
+2020-04-22,93,Pordenone,PN,599,0,6
+2020-04-23,30,Udine,UD,931,2,5
+2020-04-23,31,Gorizia,GO,164,15,5
+2020-04-23,32,Trieste,TS,1152,16,20
+2020-04-23,93,Pordenone,PN,607,8,5
+2020-04-24,30,Udine,UD,935,4,5
+2020-04-24,31,Gorizia,GO,168,4,5
+2020-04-24,32,Trieste,TS,1164,12,14
+2020-04-24,93,Pordenone,PN,612,5,5
+2020-04-25,30,Udine,UD,937,2,4
+2020-04-25,31,Gorizia,GO,174,6,6
+2020-04-25,32,Trieste,TS,1177,13,11
+2020-04-25,93,Pordenone,PN,613,1,4
+2020-04-26,30,Udine,UD,938,1,4
+2020-04-26,31,Gorizia,GO,175,1,6
+2020-04-26,32,Trieste,TS,1181,4,10
+2020-04-26,93,Pordenone,PN,621,8,4
+2020-04-27,30,Udine,UD,944,6,4
+2020-04-27,31,Gorizia,GO,179,4,6
+2020-04-27,32,Trieste,TS,1227,46,15
+2020-04-27,93,Pordenone,PN,625,4,4
+2020-04-28,30,Udine,UD,949,5,4
+2020-04-28,31,Gorizia,GO,181,2,5
+2020-04-28,32,Trieste,TS,1237,10,16
+2020-04-28,93,Pordenone,PN,627,2,4
+2020-04-29,30,Udine,UD,951,2,3
+2020-04-29,31,Gorizia,GO,182,1,5
+2020-04-29,32,Trieste,TS,1245,8,16
+2020-04-29,93,Pordenone,PN,630,3,4
+2020-04-30,30,Udine,UD,951,0,3
+2020-04-30,31,Gorizia,GO,186,4,3
+2020-04-30,32,Trieste,TS,1252,7,14
+2020-04-30,93,Pordenone,PN,634,4,4
+2020-05-01,30,Udine,UD,953,2,3
+2020-05-01,31,Gorizia,GO,187,1,3
+2020-05-01,32,Trieste,TS,1256,4,13
+2020-05-01,93,Pordenone,PN,644,10,5
+2020-05-02,30,Udine,UD,954,1,2
+2020-05-02,31,Gorizia,GO,189,2,2
+2020-05-02,32,Trieste,TS,1271,15,13
+2020-05-02,93,Pordenone,PN,644,0,4
+2020-05-03,30,Udine,UD,957,3,3
+2020-05-03,31,Gorizia,GO,189,0,2
+2020-05-03,32,Trieste,TS,1281,10,14
+2020-05-03,93,Pordenone,PN,645,1,3
+2020-05-04,30,Udine,UD,957,0,2
+2020-05-04,31,Gorizia,GO,189,0,1
+2020-05-04,32,Trieste,TS,1284,3,8
+2020-05-04,93,Pordenone,PN,646,1,3
+2020-05-05,30,Udine,UD,958,1,1
+2020-05-05,31,Gorizia,GO,189,0,1
+2020-05-05,32,Trieste,TS,1292,8,8
+2020-05-05,93,Pordenone,PN,646,0,3
+2020-05-06,30,Udine,UD,959,1,1
+2020-05-06,31,Gorizia,GO,190,1,1
+2020-05-06,32,Trieste,TS,1298,6,8
+2020-05-06,93,Pordenone,PN,647,1,2
+2020-05-07,30,Udine,UD,967,8,2
+2020-05-07,31,Gorizia,GO,192,2,1
+2020-05-07,32,Trieste,TS,1300,2,7
+2020-05-07,93,Pordenone,PN,648,1,2
+2020-05-08,30,Udine,UD,967,0,2
+2020-05-08,31,Gorizia,GO,194,2,1
+2020-05-08,32,Trieste,TS,1306,6,7
+2020-05-08,93,Pordenone,PN,649,1,1
+2020-05-09,30,Udine,UD,968,1,2
+2020-05-09,31,Gorizia,GO,195,1,1
+2020-05-09,32,Trieste,TS,1311,5,6
+2020-05-09,93,Pordenone,PN,650,1,1
+2020-05-10,30,Udine,UD,968,0,2
+2020-05-10,31,Gorizia,GO,195,0,1
+2020-05-10,32,Trieste,TS,1316,5,5
+2020-05-10,93,Pordenone,PN,651,1,1
+2020-05-11,30,Udine,UD,970,2,2
+2020-05-11,31,Gorizia,GO,195,0,1
+2020-05-11,32,Trieste,TS,1322,6,5
+2020-05-11,93,Pordenone,PN,651,0,1
+2020-05-12,30,Udine,UD,970,0,2
+2020-05-12,31,Gorizia,GO,196,1,1
+2020-05-12,32,Trieste,TS,1328,6,5
+2020-05-12,93,Pordenone,PN,654,3,1
+2020-05-13,30,Udine,UD,971,1,2
+2020-05-13,31,Gorizia,GO,197,1,1
+2020-05-13,32,Trieste,TS,1329,1,4
+2020-05-13,93,Pordenone,PN,659,5,2
+2020-05-14,30,Udine,UD,972,1,1
+2020-05-14,31,Gorizia,GO,198,1,1
+2020-05-14,32,Trieste,TS,1332,3,5
+2020-05-14,93,Pordenone,PN,659,0,2
+2020-05-15,30,Udine,UD,973,1,1
+2020-05-15,31,Gorizia,GO,199,1,1
+2020-05-15,32,Trieste,TS,1341,9,5
+2020-05-15,93,Pordenone,PN,662,3,2
+2020-05-16,30,Udine,UD,973,0,1
+2020-05-16,31,Gorizia,GO,200,1,1
+2020-05-16,32,Trieste,TS,1345,4,5
+2020-05-16,93,Pordenone,PN,665,3,2
+2020-05-17,30,Udine,UD,973,0,1
+2020-05-17,31,Gorizia,GO,203,3,1
+2020-05-17,32,Trieste,TS,1348,3,5
+2020-05-17,93,Pordenone,PN,667,2,2
+2020-05-18,30,Udine,UD,973,0,0
+2020-05-18,31,Gorizia,GO,204,1,1
+2020-05-18,32,Trieste,TS,1354,6,5
+2020-05-18,93,Pordenone,PN,667,0,2
+2020-05-19,30,Udine,UD,973,0,0
+2020-05-19,31,Gorizia,GO,205,1,1
+2020-05-19,32,Trieste,TS,1357,3,4
+2020-05-19,93,Pordenone,PN,668,1,2
+2020-05-20,30,Udine,UD,974,1,0
+2020-05-20,31,Gorizia,GO,205,0,1
+2020-05-20,32,Trieste,TS,1361,4,5
+2020-05-20,93,Pordenone,PN,669,1,1
+2020-05-21,30,Udine,UD,975,1,0
+2020-05-21,31,Gorizia,GO,205,0,1
+2020-05-21,32,Trieste,TS,1365,4,5
+2020-05-21,93,Pordenone,PN,670,1,2
+2020-05-22,30,Udine,UD,979,4,1
+2020-05-22,31,Gorizia,GO,209,4,1
+2020-05-22,32,Trieste,TS,1368,3,4
+2020-05-22,93,Pordenone,PN,671,1,1
+2020-05-23,30,Udine,UD,979,0,1
+2020-05-23,31,Gorizia,GO,210,1,1
+2020-05-23,32,Trieste,TS,1372,4,4
+2020-05-23,93,Pordenone,PN,672,1,1
+2020-05-24,30,Udine,UD,980,1,1
+2020-05-24,31,Gorizia,GO,210,0,1
+2020-05-24,32,Trieste,TS,1374,2,4
+2020-05-24,93,Pordenone,PN,672,0,1
+2020-05-25,30,Udine,UD,980,0,1
+2020-05-25,31,Gorizia,GO,210,0,1
+2020-05-25,32,Trieste,TS,1377,3,3
+2020-05-25,93,Pordenone,PN,673,1,1
+2020-05-26,30,Udine,UD,981,1,1
+2020-05-26,31,Gorizia,GO,210,0,1
+2020-05-26,32,Trieste,TS,1377,0,3
+2020-05-26,93,Pordenone,PN,683,10,2
+2020-05-27,30,Udine,UD,981,0,1
+2020-05-27,31,Gorizia,GO,212,2,1
+2020-05-27,32,Trieste,TS,1378,1,2
+2020-05-27,93,Pordenone,PN,684,1,2
+2020-05-28,30,Udine,UD,981,0,1
+2020-05-28,31,Gorizia,GO,213,1,1
+2020-05-28,32,Trieste,TS,1384,6,3
+2020-05-28,93,Pordenone,PN,684,0,2
+2020-05-29,30,Udine,UD,982,1,0
+2020-05-29,31,Gorizia,GO,214,1,1
+2020-05-29,32,Trieste,TS,1385,1,2
+2020-05-29,93,Pordenone,PN,686,2,2
+2020-05-30,30,Udine,UD,982,0,0
+2020-05-30,31,Gorizia,GO,214,0,1
+2020-05-30,32,Trieste,TS,1387,2,2
+2020-05-30,93,Pordenone,PN,688,2,2
+2020-05-31,30,Udine,UD,983,1,0
+2020-05-31,31,Gorizia,GO,214,0,1
+2020-05-31,32,Trieste,TS,1388,1,2
+2020-05-31,93,Pordenone,PN,688,0,2
+2020-06-01,30,Udine,UD,984,1,1
+2020-06-01,31,Gorizia,GO,214,0,1
+2020-06-01,32,Trieste,TS,1388,0,2
+2020-06-01,93,Pordenone,PN,688,0,2
+2020-06-02,30,Udine,UD,986,2,1
+2020-06-02,31,Gorizia,GO,214,0,1
+2020-06-02,32,Trieste,TS,1388,0,2
+2020-06-02,93,Pordenone,PN,688,0,1
+2020-06-03,30,Udine,UD,986,0,1
+2020-06-03,31,Gorizia,GO,214,0,0
+2020-06-03,32,Trieste,TS,1388,0,1
+2020-06-03,93,Pordenone,PN,688,0,1
+2020-06-04,30,Udine,UD,987,1,1
+2020-06-04,31,Gorizia,GO,214,0,0
+2020-06-04,32,Trieste,TS,1389,1,1
+2020-06-04,93,Pordenone,PN,689,1,1
+2020-06-05,30,Udine,UD,988,1,1
+2020-06-05,31,Gorizia,GO,214,0,0
+2020-06-05,32,Trieste,TS,1389,0,1
+2020-06-05,93,Pordenone,PN,689,0,0
+2020-06-06,30,Udine,UD,989,1,1
+2020-06-06,31,Gorizia,GO,214,0,0
+2020-06-06,32,Trieste,TS,1389,0,0
+2020-06-06,93,Pordenone,PN,691,2,0
+2020-06-07,30,Udine,UD,989,0,1
+2020-06-07,31,Gorizia,GO,214,0,0
+2020-06-07,32,Trieste,TS,1389,0,0
+2020-06-07,93,Pordenone,PN,691,0,0
+2020-06-08,30,Udine,UD,989,0,1
+2020-06-08,31,Gorizia,GO,214,0,0
+2020-06-08,32,Trieste,TS,1390,1,0
+2020-06-08,93,Pordenone,PN,691,0,0
+2020-06-09,30,Udine,UD,989,0,0
+2020-06-09,31,Gorizia,GO,214,0,0
+2020-06-09,32,Trieste,TS,1390,0,0
+2020-06-09,93,Pordenone,PN,691,0,0
+2020-06-10,30,Udine,UD,991,2,1
+2020-06-10,31,Gorizia,GO,214,0,0
+2020-06-10,32,Trieste,TS,1390,0,0
+2020-06-10,93,Pordenone,PN,691,0,0
+2020-06-11,30,Udine,UD,991,0,1
+2020-06-11,31,Gorizia,GO,215,1,0
+2020-06-11,32,Trieste,TS,1390,0,0
+2020-06-11,93,Pordenone,PN,691,0,0
+2020-06-12,30,Udine,UD,992,1,1
+2020-06-12,31,Gorizia,GO,215,0,0
+2020-06-12,32,Trieste,TS,1391,1,0
+2020-06-12,93,Pordenone,PN,692,1,0
+2020-06-13,30,Udine,UD,993,1,1
+2020-06-13,31,Gorizia,GO,215,0,0
+2020-06-13,32,Trieste,TS,1393,2,1
+2020-06-13,93,Pordenone,PN,695,3,1
+2020-06-14,30,Udine,UD,993,0,1
+2020-06-14,31,Gorizia,GO,215,0,0
+2020-06-14,32,Trieste,TS,1393,0,1
+2020-06-14,93,Pordenone,PN,695,0,1
+2020-06-15,30,Udine,UD,993,0,1
+2020-06-15,31,Gorizia,GO,215,0,0
+2020-06-15,32,Trieste,TS,1393,0,0
+2020-06-15,93,Pordenone,PN,695,0,1
+2020-06-16,30,Udine,UD,993,0,1
+2020-06-16,31,Gorizia,GO,215,0,0
+2020-06-16,32,Trieste,TS,1393,0,0
+2020-06-16,93,Pordenone,PN,696,1,1
+2020-06-17,30,Udine,UD,994,1,0
+2020-06-17,31,Gorizia,GO,216,1,0
+2020-06-17,32,Trieste,TS,1393,0,0
+2020-06-17,93,Pordenone,PN,696,0,1
+2020-06-18,30,Udine,UD,995,1,1
+2020-06-18,31,Gorizia,GO,216,0,0
+2020-06-18,32,Trieste,TS,1393,0,0
+2020-06-18,93,Pordenone,PN,697,1,1
+2020-06-19,30,Udine,UD,996,1,1
+2020-06-19,31,Gorizia,GO,216,0,0
+2020-06-19,32,Trieste,TS,1393,0,0
+2020-06-19,93,Pordenone,PN,698,1,1
+2020-06-20,30,Udine,UD,997,1,1
+2020-06-20,31,Gorizia,GO,216,0,0
+2020-06-20,32,Trieste,TS,1393,0,0
+2020-06-20,93,Pordenone,PN,698,0,0
+2020-06-21,30,Udine,UD,997,0,1
+2020-06-21,31,Gorizia,GO,216,0,0
+2020-06-21,32,Trieste,TS,1393,0,0
+2020-06-21,93,Pordenone,PN,699,1,1
+2020-06-22,30,Udine,UD,997,0,1
+2020-06-22,31,Gorizia,GO,216,0,0
+2020-06-22,32,Trieste,TS,1393,0,0
+2020-06-22,93,Pordenone,PN,699,0,1
+2020-06-23,30,Udine,UD,997,0,1
+2020-06-23,31,Gorizia,GO,216,0,0
+2020-06-23,32,Trieste,TS,1393,0,0
+2020-06-23,93,Pordenone,PN,699,0,0
+2020-06-24,30,Udine,UD,997,0,0
+2020-06-24,31,Gorizia,GO,216,0,0
+2020-06-24,32,Trieste,TS,1393,0,0
+2020-06-24,93,Pordenone,PN,699,0,0
+2020-06-25,30,Udine,UD,997,0,0
+2020-06-25,31,Gorizia,GO,216,0,0
+2020-06-25,32,Trieste,TS,1393,0,0
+2020-06-25,93,Pordenone,PN,699,0,0
+2020-06-25,885,Fuori Regione / Provincia Autonoma,,0,NA,0
+2020-06-26,30,Udine,UD,997,0,0
+2020-06-26,31,Gorizia,GO,216,0,0
+2020-06-26,32,Trieste,TS,1393,0,0
+2020-06-26,93,Pordenone,PN,701,2,0
+2020-06-26,885,Fuori Regione / Provincia Autonoma,,0,0,0
+2020-06-27,30,Udine,UD,997,0,0
+2020-06-27,31,Gorizia,GO,216,0,0
+2020-06-27,32,Trieste,TS,1393,0,0
+2020-06-27,93,Pordenone,PN,701,0,0
+2020-06-27,885,Fuori Regione / Provincia Autonoma,,0,0,0
+2020-06-28,30,Udine,UD,997,0,0
+2020-06-28,31,Gorizia,GO,216,0,0
+2020-06-28,32,Trieste,TS,1393,0,0
+2020-06-28,93,Pordenone,PN,702,1,0
+2020-06-28,885,Fuori Regione / Provincia Autonoma,,0,0,0
+2020-06-29,30,Udine,UD,997,0,0
+2020-06-29,31,Gorizia,GO,216,0,0
+2020-06-29,32,Trieste,TS,1393,0,0
+2020-06-29,93,Pordenone,PN,702,0,0
+2020-06-29,885,Fuori Regione / Provincia Autonoma,,0,0,0
+2020-06-30,30,Udine,UD,997,0,0
+2020-06-30,31,Gorizia,GO,216,0,0
+2020-06-30,32,Trieste,TS,1393,0,0
+2020-06-30,93,Pordenone,PN,702,0,0
+2020-06-30,885,Fuori Regione / Provincia Autonoma,,0,0,0
+2020-07-01,30,Udine,UD,998,1,0
+2020-07-01,31,Gorizia,GO,217,1,0
+2020-07-01,32,Trieste,TS,1393,0,0
+2020-07-01,93,Pordenone,PN,704,2,1
+2020-07-01,885,Fuori Regione / Provincia Autonoma,,0,0,NA
+2020-07-02,30,Udine,UD,998,0,0
+2020-07-02,31,Gorizia,GO,218,1,0
+2020-07-02,32,Trieste,TS,1394,1,0
+2020-07-02,93,Pordenone,PN,704,0,1
+2020-07-02,885,Fuori Regione / Provincia Autonoma,,0,0,0
+2020-07-03,30,Udine,UD,998,0,0
+2020-07-03,31,Gorizia,GO,218,0,0
+2020-07-03,32,Trieste,TS,1397,3,1
+2020-07-03,93,Pordenone,PN,705,1,1
+2020-07-03,885,Fuori Regione / Provincia Autonoma,,0,0,0
+2020-07-04,30,Udine,UD,1001,3,1
+2020-07-04,31,Gorizia,GO,218,0,0
+2020-07-04,32,Trieste,TS,1400,3,1
+2020-07-04,93,Pordenone,PN,707,2,1
+2020-07-04,885,Fuori Regione / Provincia Autonoma,,0,0,0
+2020-07-05,30,Udine,UD,1001,0,1
+2020-07-05,31,Gorizia,GO,218,0,0
+2020-07-05,32,Trieste,TS,1400,0,1
+2020-07-05,93,Pordenone,PN,707,0,1
+2020-07-05,885,Fuori Regione / Provincia Autonoma,,0,0,0
+2020-07-06,30,Udine,UD,1001,0,1
+2020-07-06,31,Gorizia,GO,218,0,0
+2020-07-06,32,Trieste,TS,1400,0,1
+2020-07-06,93,Pordenone,PN,707,0,1
+2020-07-06,885,Fuori Regione / Provincia Autonoma,,0,0,0
+2020-07-07,30,Udine,UD,1001,0,1
+2020-07-07,31,Gorizia,GO,218,0,0
+2020-07-07,32,Trieste,TS,1401,1,1
+2020-07-07,93,Pordenone,PN,707,0,1
+2020-07-07,885,Fuori Regione / Provincia Autonoma,,0,0,0
+2020-07-08,30,Udine,UD,1001,0,0
+2020-07-08,31,Gorizia,GO,218,0,0
+2020-07-08,32,Trieste,TS,1402,1,1
+2020-07-08,93,Pordenone,PN,710,3,1
+2020-07-08,885,Fuori Regione / Provincia Autonoma,,0,0,0
+2020-07-09,30,Udine,UD,1001,0,0
+2020-07-09,31,Gorizia,GO,218,0,0
+2020-07-09,32,Trieste,TS,1403,1,1
+2020-07-09,93,Pordenone,PN,710,0,1
+2020-07-09,885,Fuori Regione / Provincia Autonoma,,0,0,0
+2020-07-10,30,Udine,UD,1001,0,0
+2020-07-10,31,Gorizia,GO,218,0,0
+2020-07-10,32,Trieste,TS,1404,1,1
+2020-07-10,93,Pordenone,PN,710,0,1
+2020-07-10,885,Fuori Regione / Provincia Autonoma,,0,0,0
+2020-07-11,30,Udine,UD,1001,0,0
+2020-07-11,31,Gorizia,GO,219,1,0
+2020-07-11,32,Trieste,TS,1405,1,1
+2020-07-11,93,Pordenone,PN,710,0,0
+2020-07-11,885,Fuori Regione / Provincia Autonoma,,0,0,0
+2020-07-12,30,Udine,UD,1001,0,0
+2020-07-12,31,Gorizia,GO,219,0,0
+2020-07-12,32,Trieste,TS,1405,0,1
+2020-07-12,93,Pordenone,PN,710,0,0
+2020-07-12,885,Fuori Regione / Provincia Autonoma,,0,0,0
+2020-07-13,30,Udine,UD,1001,0,0
+2020-07-13,31,Gorizia,GO,219,0,0
+2020-07-13,32,Trieste,TS,1405,0,1
+2020-07-13,93,Pordenone,PN,710,0,0
+2020-07-13,885,Fuori Regione / Provincia Autonoma,,0,0,0
+2020-07-14,30,Udine,UD,1002,1,0
+2020-07-14,31,Gorizia,GO,219,0,0
+2020-07-14,32,Trieste,TS,1407,2,1
+2020-07-14,93,Pordenone,PN,710,0,0
+2020-07-14,885,Fuori Regione / Provincia Autonoma,,0,0,0
+2020-07-15,30,Udine,UD,1002,0,0
+2020-07-15,31,Gorizia,GO,219,0,0
+2020-07-15,32,Trieste,TS,1407,0,1
+2020-07-15,93,Pordenone,PN,711,1,0
+2020-07-15,885,Fuori Regione / Provincia Autonoma,,0,0,0
+2020-07-16,30,Udine,UD,1003,1,0
+2020-07-16,31,Gorizia,GO,220,1,0
+2020-07-16,32,Trieste,TS,1408,1,1
+2020-07-16,93,Pordenone,PN,712,1,0
+2020-07-16,885,Fuori Regione / Provincia Autonoma,,0,0,0
+2020-07-17,30,Udine,UD,1003,0,0
+2020-07-17,31,Gorizia,GO,220,0,0
+2020-07-17,32,Trieste,TS,1410,2,1
+2020-07-17,93,Pordenone,PN,713,1,0
+2020-07-17,885,Fuori Regione / Provincia Autonoma,,0,0,0
+2020-07-18,30,Udine,UD,1003,0,0
+2020-07-18,31,Gorizia,GO,220,0,0
+2020-07-18,32,Trieste,TS,1410,0,1
+2020-07-18,93,Pordenone,PN,717,4,1
+2020-07-18,885,Fuori Regione / Provincia Autonoma,,0,0,0
+2020-07-19,30,Udine,UD,1003,0,0
+2020-07-19,31,Gorizia,GO,221,1,0
+2020-07-19,32,Trieste,TS,1411,1,1
+2020-07-19,93,Pordenone,PN,717,0,1
+2020-07-19,885,Fuori Regione / Provincia Autonoma,,0,0,0
+2020-07-20,30,Udine,UD,1007,4,1
+2020-07-20,31,Gorizia,GO,221,0,0
+2020-07-20,32,Trieste,TS,1411,0,1
+2020-07-20,93,Pordenone,PN,717,0,1
+2020-07-20,885,Fuori Regione / Provincia Autonoma,,0,0,0
+2020-07-21,30,Udine,UD,1008,1,1
+2020-07-21,31,Gorizia,GO,221,0,0
+2020-07-21,32,Trieste,TS,1411,0,1
+2020-07-21,93,Pordenone,PN,718,1,1
+2020-07-21,885,Fuori Regione / Provincia Autonoma,,0,0,0
+2020-07-22,30,Udine,UD,1010,2,1
+2020-07-22,31,Gorizia,GO,221,0,0
+2020-07-22,32,Trieste,TS,1411,0,1
+2020-07-22,93,Pordenone,PN,718,0,1
+2020-07-22,885,Fuori Regione / Provincia Autonoma,,0,0,0
+2020-07-23,30,Udine,UD,1013,3,1
+2020-07-23,31,Gorizia,GO,221,0,0
+2020-07-23,32,Trieste,TS,1411,0,0
+2020-07-23,93,Pordenone,PN,718,0,1
+2020-07-23,885,Fuori Regione / Provincia Autonoma,,0,0,0
+2020-07-24,30,Udine,UD,1014,1,2
+2020-07-24,31,Gorizia,GO,222,1,0
+2020-07-24,32,Trieste,TS,1412,1,0
+2020-07-24,93,Pordenone,PN,720,2,1
+2020-07-24,885,Fuori Regione / Provincia Autonoma,,0,0,0
+2020-07-25,30,Udine,UD,1016,2,2
+2020-07-25,31,Gorizia,GO,225,3,1
+2020-07-25,32,Trieste,TS,1412,0,0
+2020-07-25,93,Pordenone,PN,720,0,0
+2020-07-25,885,Fuori Regione / Provincia Autonoma,,0,0,0
+2020-07-26,30,Udine,UD,1016,0,2
+2020-07-26,31,Gorizia,GO,225,0,1
+2020-07-26,32,Trieste,TS,1412,0,0
+2020-07-26,93,Pordenone,PN,722,2,1
+2020-07-26,885,Fuori Regione / Provincia Autonoma,,0,0,0
+2020-07-27,30,Udine,UD,1016,0,1
+2020-07-27,31,Gorizia,GO,225,0,1
+2020-07-27,32,Trieste,TS,1412,0,0
+2020-07-27,93,Pordenone,PN,722,0,1
+2020-07-27,885,Fuori Regione / Provincia Autonoma,,0,0,0
+2020-07-28,30,Udine,UD,1016,0,1
+2020-07-28,31,Gorizia,GO,225,0,1
+2020-07-28,32,Trieste,TS,1412,0,0
+2020-07-28,93,Pordenone,PN,722,0,1
+2020-07-28,885,Fuori Regione / Provincia Autonoma,,0,0,0
+2020-07-29,30,Udine,UD,1017,1,1
+2020-07-29,31,Gorizia,GO,225,0,1
+2020-07-29,32,Trieste,TS,1412,0,0
+2020-07-29,93,Pordenone,PN,723,1,1
+2020-07-29,885,Fuori Regione / Provincia Autonoma,,1,1,0
+2020-07-30,30,Udine,UD,1025,8,2
+2020-07-30,31,Gorizia,GO,225,0,1
+2020-07-30,32,Trieste,TS,1412,0,0
+2020-07-30,93,Pordenone,PN,728,5,1
+2020-07-30,885,Fuori Regione / Provincia Autonoma,,1,0,0
+2020-07-31,30,Udine,UD,1026,1,2
+2020-07-31,31,Gorizia,GO,225,0,0
+2020-07-31,32,Trieste,TS,1412,0,0
+2020-07-31,93,Pordenone,PN,730,2,1
+2020-07-31,885,Fuori Regione / Provincia Autonoma,,1,0,0
+2020-08-01,30,Udine,UD,1027,1,2
+2020-08-01,31,Gorizia,GO,225,0,0
+2020-08-01,32,Trieste,TS,1414,2,0
+2020-08-01,93,Pordenone,PN,734,4,2
+2020-08-01,885,Fuori Regione / Provincia Autonoma,,1,0,0
+2020-08-02,30,Udine,UD,1029,2,2
+2020-08-02,31,Gorizia,GO,225,0,0
+2020-08-02,32,Trieste,TS,1414,0,0
+2020-08-02,93,Pordenone,PN,742,8,3
+2020-08-02,885,Fuori Regione / Provincia Autonoma,,1,0,0
+2020-08-03,30,Udine,UD,1029,0,2
+2020-08-03,31,Gorizia,GO,225,0,0
+2020-08-03,32,Trieste,TS,1414,0,0
+2020-08-03,93,Pordenone,PN,742,0,3
+2020-08-03,885,Fuori Regione / Provincia Autonoma,,1,0,0
+2020-08-04,30,Udine,UD,1029,0,2
+2020-08-04,31,Gorizia,GO,225,0,0
+2020-08-04,32,Trieste,TS,1416,2,1
+2020-08-04,93,Pordenone,PN,745,3,3
+2020-08-04,885,Fuori Regione / Provincia Autonoma,,1,0,0
+2020-08-05,30,Udine,UD,1036,7,3
+2020-08-05,31,Gorizia,GO,226,1,0
+2020-08-05,32,Trieste,TS,1417,1,1
+2020-08-05,93,Pordenone,PN,745,0,3
+2020-08-05,885,Fuori Regione / Provincia Autonoma,,1,0,0
+2020-08-06,30,Udine,UD,1040,4,2
+2020-08-06,31,Gorizia,GO,226,0,0
+2020-08-06,32,Trieste,TS,1417,0,1
+2020-08-06,93,Pordenone,PN,748,3,3
+2020-08-06,885,Fuori Regione / Provincia Autonoma,,1,0,0
+2020-08-07,30,Udine,UD,1043,3,2
+2020-08-07,31,Gorizia,GO,226,0,0
+2020-08-07,32,Trieste,TS,1418,1,1
+2020-08-07,93,Pordenone,PN,748,0,3
+2020-08-07,885,Fuori Regione / Provincia Autonoma,,1,0,0
+2020-08-08,30,Udine,UD,1047,4,3
+2020-08-08,31,Gorizia,GO,226,0,0
+2020-08-08,32,Trieste,TS,1419,1,1
+2020-08-08,93,Pordenone,PN,748,0,2
+2020-08-08,885,Fuori Regione / Provincia Autonoma,,2,1,0
+2020-08-09,30,Udine,UD,1052,5,3
+2020-08-09,31,Gorizia,GO,226,0,0
+2020-08-09,32,Trieste,TS,1420,1,1
+2020-08-09,93,Pordenone,PN,748,0,1
+2020-08-09,885,Fuori Regione / Provincia Autonoma,,3,1,0
+2020-08-10,30,Udine,UD,1052,0,3
+2020-08-10,31,Gorizia,GO,226,0,0
+2020-08-10,32,Trieste,TS,1420,0,1
+2020-08-10,93,Pordenone,PN,748,0,1
+2020-08-10,885,Fuori Regione / Provincia Autonoma,,3,0,0
+2020-08-11,30,Udine,UD,1053,1,3
+2020-08-11,31,Gorizia,GO,227,1,0
+2020-08-11,32,Trieste,TS,1421,1,1
+2020-08-11,93,Pordenone,PN,748,0,0
+2020-08-11,885,Fuori Regione / Provincia Autonoma,,3,0,0
+2020-08-12,30,Udine,UD,1059,6,3
+2020-08-12,31,Gorizia,GO,227,0,0
+2020-08-12,32,Trieste,TS,1424,3,1
+2020-08-12,93,Pordenone,PN,748,0,0
+2020-08-12,885,Fuori Regione / Provincia Autonoma,,3,0,0
+2020-08-13,30,Udine,UD,1068,9,4
+2020-08-13,31,Gorizia,GO,230,3,1
+2020-08-13,32,Trieste,TS,1425,1,1
+2020-08-13,93,Pordenone,PN,750,2,0
+2020-08-13,885,Fuori Regione / Provincia Autonoma,,3,0,0
+2020-08-14,30,Udine,UD,1069,1,4
+2020-08-14,31,Gorizia,GO,231,1,1
+2020-08-14,32,Trieste,TS,1428,3,1
+2020-08-14,93,Pordenone,PN,753,3,1
+2020-08-14,885,Fuori Regione / Provincia Autonoma,,3,0,0
+2020-08-15,30,Udine,UD,1075,6,4
+2020-08-15,31,Gorizia,GO,232,1,1
+2020-08-15,32,Trieste,TS,1428,0,1
+2020-08-15,93,Pordenone,PN,761,8,2
+2020-08-15,885,Fuori Regione / Provincia Autonoma,,3,0,0
+2020-08-16,30,Udine,UD,1079,4,4
+2020-08-16,31,Gorizia,GO,232,0,1
+2020-08-16,32,Trieste,TS,1431,3,2
+2020-08-16,93,Pordenone,PN,762,1,2
+2020-08-16,885,Fuori Regione / Provincia Autonoma,,3,0,0
+2020-08-17,30,Udine,UD,1080,1,4
+2020-08-17,31,Gorizia,GO,233,1,1
+2020-08-17,32,Trieste,TS,1433,2,2
+2020-08-17,93,Pordenone,PN,763,1,2
+2020-08-17,885,Fuori Regione / Provincia Autonoma,,3,0,0
+2020-08-18,30,Udine,UD,1086,6,5
+2020-08-18,31,Gorizia,GO,235,2,1
+2020-08-18,32,Trieste,TS,1434,1,2
+2020-08-18,93,Pordenone,PN,764,1,2
+2020-08-18,885,Fuori Regione / Provincia Autonoma,,3,0,0
+2020-08-19,30,Udine,UD,1090,4,4
+2020-08-19,31,Gorizia,GO,237,2,1
+2020-08-19,32,Trieste,TS,1437,3,2
+2020-08-19,93,Pordenone,PN,766,2,3
+2020-08-19,885,Fuori Regione / Provincia Autonoma,,3,0,0
+2020-08-20,30,Udine,UD,1102,12,5
+2020-08-20,31,Gorizia,GO,237,0,1
+2020-08-20,32,Trieste,TS,1437,0,2
+2020-08-20,93,Pordenone,PN,768,2,3
+2020-08-20,885,Fuori Regione / Provincia Autonoma,,3,0,0
+2020-08-21,30,Udine,UD,1112,10,6
+2020-08-21,31,Gorizia,GO,237,0,1
+2020-08-21,32,Trieste,TS,1447,10,3
+2020-08-21,93,Pordenone,PN,783,15,4
+2020-08-21,885,Fuori Regione / Provincia Autonoma,,4,1,0
+2020-08-22,30,Udine,UD,1126,14,7
+2020-08-22,31,Gorizia,GO,240,3,1
+2020-08-22,32,Trieste,TS,1454,7,4
+2020-08-22,93,Pordenone,PN,791,8,4
+2020-08-22,885,Fuori Regione / Provincia Autonoma,,5,1,0
+2020-08-23,30,Udine,UD,1138,12,8
+2020-08-23,31,Gorizia,GO,242,2,1
+2020-08-23,32,Trieste,TS,1455,1,3
+2020-08-23,93,Pordenone,PN,798,7,5
+2020-08-23,885,Fuori Regione / Provincia Autonoma,,7,2,1
+2020-08-24,30,Udine,UD,1140,2,9
+2020-08-24,31,Gorizia,GO,242,0,1
+2020-08-24,32,Trieste,TS,1455,0,3
+2020-08-24,93,Pordenone,PN,798,0,5
+2020-08-24,885,Fuori Regione / Provincia Autonoma,,7,0,1
+2020-08-25,30,Udine,UD,1144,4,8
+2020-08-25,31,Gorizia,GO,242,0,1
+2020-08-25,32,Trieste,TS,1455,0,3
+2020-08-25,93,Pordenone,PN,803,5,6
+2020-08-25,885,Fuori Regione / Provincia Autonoma,,7,0,1
+2020-08-26,30,Udine,UD,1157,13,10
+2020-08-26,31,Gorizia,GO,251,9,2
+2020-08-26,32,Trieste,TS,1459,4,3
+2020-08-26,93,Pordenone,PN,809,6,6
+2020-08-26,885,Fuori Regione / Provincia Autonoma,,8,1,1
+2020-08-27,30,Udine,UD,1167,10,9
+2020-08-27,31,Gorizia,GO,254,3,2
+2020-08-27,32,Trieste,TS,1466,7,4
+2020-08-27,93,Pordenone,PN,814,5,7
+2020-08-27,885,Fuori Regione / Provincia Autonoma,,8,0,1
+2020-08-28,30,Udine,UD,1171,4,8
+2020-08-28,31,Gorizia,GO,256,2,3
+2020-08-28,32,Trieste,TS,1473,7,4
+2020-08-28,93,Pordenone,PN,820,6,5
+2020-08-28,885,Fuori Regione / Provincia Autonoma,,8,0,1
+2020-08-29,30,Udine,UD,1182,11,8
+2020-08-29,31,Gorizia,GO,257,1,2
+2020-08-29,32,Trieste,TS,1476,3,3
+2020-08-29,93,Pordenone,PN,823,3,5
+2020-08-29,885,Fuori Regione / Provincia Autonoma,,10,2,1
+2020-08-30,30,Udine,UD,1188,6,7
+2020-08-30,31,Gorizia,GO,260,3,3
+2020-08-30,32,Trieste,TS,1478,2,3
+2020-08-30,93,Pordenone,PN,827,4,4
+2020-08-30,885,Fuori Regione / Provincia Autonoma,,11,1,1
+2020-08-31,30,Udine,UD,1190,2,7
+2020-08-31,31,Gorizia,GO,261,1,3
+2020-08-31,32,Trieste,TS,1478,0,3
+2020-08-31,93,Pordenone,PN,829,2,4
+2020-08-31,885,Fuori Regione / Provincia Autonoma,,11,0,1
+2020-09-01,30,Udine,UD,1190,0,7
+2020-09-01,31,Gorizia,GO,267,6,4
+2020-09-01,32,Trieste,TS,1481,3,4
+2020-09-01,93,Pordenone,PN,836,7,5
+2020-09-01,885,Fuori Regione / Provincia Autonoma,,12,1,1
+2020-09-02,30,Udine,UD,1203,13,7
+2020-09-02,31,Gorizia,GO,270,3,3
+2020-09-02,32,Trieste,TS,1481,0,3
+2020-09-02,93,Pordenone,PN,840,4,4
+2020-09-02,885,Fuori Regione / Provincia Autonoma,,12,0,1
+2020-09-03,30,Udine,UD,1216,13,7
+2020-09-03,31,Gorizia,GO,270,0,2
+2020-09-03,32,Trieste,TS,1487,6,3
+2020-09-03,93,Pordenone,PN,846,6,5
+2020-09-03,885,Fuori Regione / Provincia Autonoma,,12,0,1
+2020-09-04,30,Udine,UD,1229,13,8
+2020-09-04,31,Gorizia,GO,274,4,3
+2020-09-04,32,Trieste,TS,1491,4,3
+2020-09-04,93,Pordenone,PN,848,2,4
+2020-09-04,885,Fuori Regione / Provincia Autonoma,,12,0,1
+2020-09-05,30,Udine,UD,1240,11,8
+2020-09-05,31,Gorizia,GO,294,20,5
+2020-09-05,32,Trieste,TS,1494,3,3
+2020-09-05,93,Pordenone,PN,862,14,6
+2020-09-05,885,Fuori Regione / Provincia Autonoma,,13,1,0
+2020-09-06,30,Udine,UD,1251,11,9
+2020-09-06,31,Gorizia,GO,297,3,5
+2020-09-06,32,Trieste,TS,1495,1,2
+2020-09-06,93,Pordenone,PN,867,5,6
+2020-09-06,885,Fuori Regione / Provincia Autonoma,,13,0,0
+2020-09-07,30,Udine,UD,1254,3,9
+2020-09-07,31,Gorizia,GO,300,3,6
+2020-09-07,32,Trieste,TS,1495,0,2
+2020-09-07,93,Pordenone,PN,872,5,6
+2020-09-07,885,Fuori Regione / Provincia Autonoma,,13,0,0
+2020-09-08,30,Udine,UD,1266,12,11
+2020-09-08,31,Gorizia,GO,300,0,5
+2020-09-08,32,Trieste,TS,1495,0,2
+2020-09-08,93,Pordenone,PN,872,0,5
+2020-09-08,885,Fuori Regione / Provincia Autonoma,,13,0,0
+2020-09-09,30,Udine,UD,1278,12,11
+2020-09-09,31,Gorizia,GO,315,15,6
+2020-09-09,32,Trieste,TS,1509,14,4
+2020-09-09,93,Pordenone,PN,885,13,6
+2020-09-09,885,Fuori Regione / Provincia Autonoma,,13,0,0
+2020-09-10,30,Udine,UD,1301,23,12
+2020-09-10,31,Gorizia,GO,323,8,8
+2020-09-10,32,Trieste,TS,1513,4,4
+2020-09-10,93,Pordenone,PN,889,4,6
+2020-09-10,885,Fuori Regione / Provincia Autonoma,,13,0,0
+2020-09-11,30,Udine,UD,1308,7,11
+2020-09-11,31,Gorizia,GO,326,3,7
+2020-09-11,32,Trieste,TS,1527,14,5
+2020-09-11,93,Pordenone,PN,899,10,7
+2020-09-11,885,Fuori Regione / Provincia Autonoma,,13,0,0
+2020-09-12,30,Udine,UD,1321,13,12
+2020-09-12,31,Gorizia,GO,331,5,5
+2020-09-12,32,Trieste,TS,1532,5,5
+2020-09-12,93,Pordenone,PN,915,16,8
+2020-09-12,885,Fuori Regione / Provincia Autonoma,,13,0,0
+2020-09-13,30,Udine,UD,1335,14,12
+2020-09-13,31,Gorizia,GO,342,11,6
+2020-09-13,32,Trieste,TS,1543,11,7
+2020-09-13,93,Pordenone,PN,924,9,8
+2020-09-13,885,Fuori Regione / Provincia Autonoma,,13,0,0
+2020-09-14,30,Udine,UD,1336,1,12
+2020-09-14,31,Gorizia,GO,342,0,6
+2020-09-14,32,Trieste,TS,1543,0,7
+2020-09-14,93,Pordenone,PN,927,3,8
+2020-09-14,885,Fuori Regione / Provincia Autonoma,,13,0,0
+2020-09-15,30,Udine,UD,1343,7,11
+2020-09-15,31,Gorizia,GO,344,2,6
+2020-09-15,32,Trieste,TS,1544,1,7
+2020-09-15,93,Pordenone,PN,937,10,9
+2020-09-15,885,Fuori Regione / Provincia Autonoma,,13,0,0
+2020-09-16,30,Udine,UD,1354,11,11
+2020-09-16,31,Gorizia,GO,352,8,5
+2020-09-16,32,Trieste,TS,1550,6,6
+2020-09-16,93,Pordenone,PN,941,4,8
+2020-09-16,885,Fuori Regione / Provincia Autonoma,,13,0,0
+2020-09-17,30,Udine,UD,1392,38,13
+2020-09-17,31,Gorizia,GO,361,9,5
+2020-09-17,32,Trieste,TS,1560,10,7
+2020-09-17,93,Pordenone,PN,947,6,8
+2020-09-17,885,Fuori Regione / Provincia Autonoma,,13,0,0
+2020-09-18,30,Udine,UD,1399,7,13
+2020-09-18,31,Gorizia,GO,371,10,6
+2020-09-18,32,Trieste,TS,1568,8,6
+2020-09-18,93,Pordenone,PN,961,14,9
+2020-09-18,885,Fuori Regione / Provincia Autonoma,,13,0,0
+2020-09-19,30,Udine,UD,1410,11,13
+2020-09-19,31,Gorizia,GO,381,10,7
+2020-09-19,32,Trieste,TS,1569,1,5
+2020-09-19,93,Pordenone,PN,972,11,8
+2020-09-19,885,Fuori Regione / Provincia Autonoma,,13,0,0
+2020-09-20,30,Udine,UD,1424,14,13
+2020-09-20,31,Gorizia,GO,383,2,6
+2020-09-20,32,Trieste,TS,1570,1,4
+2020-09-20,93,Pordenone,PN,987,15,9
+2020-09-20,885,Fuori Regione / Provincia Autonoma,,13,0,0
+2020-09-21,30,Udine,UD,1435,11,14
+2020-09-21,31,Gorizia,GO,384,1,6
+2020-09-21,32,Trieste,TS,1571,1,4
+2020-09-21,93,Pordenone,PN,987,0,9
+2020-09-21,885,Fuori Regione / Provincia Autonoma,,13,0,0
+2020-09-22,30,Udine,UD,1440,5,14
+2020-09-22,31,Gorizia,GO,385,1,6
+2020-09-22,32,Trieste,TS,1578,7,5
+2020-09-22,93,Pordenone,PN,987,0,7
+2020-09-22,885,Fuori Regione / Provincia Autonoma,,14,1,0
+2020-09-23,30,Udine,UD,1467,27,16
+2020-09-23,31,Gorizia,GO,397,12,6
+2020-09-23,32,Trieste,TS,1586,8,5
+2020-09-23,93,Pordenone,PN,995,8,8
+2020-09-23,885,Fuori Regione / Provincia Autonoma,,16,2,0
+2020-09-24,30,Udine,UD,1484,17,13
+2020-09-24,31,Gorizia,GO,403,6,6
+2020-09-24,32,Trieste,TS,1588,2,4
+2020-09-24,93,Pordenone,PN,997,2,7
+2020-09-24,885,Fuori Regione / Provincia Autonoma,,17,1,1
+2020-09-25,30,Udine,UD,1494,10,14
+2020-09-25,31,Gorizia,GO,413,10,6
+2020-09-25,32,Trieste,TS,1592,4,3
+2020-09-25,93,Pordenone,PN,1010,13,7
+2020-09-25,885,Fuori Regione / Provincia Autonoma,,17,0,1
+2020-09-26,30,Udine,UD,1522,28,16
+2020-09-26,31,Gorizia,GO,423,10,6
+2020-09-26,32,Trieste,TS,1596,4,4
+2020-09-26,93,Pordenone,PN,1021,11,7
+2020-09-26,885,Fuori Regione / Provincia Autonoma,,18,1,1
+2020-09-27,30,Udine,UD,1536,14,16
+2020-09-27,31,Gorizia,GO,424,1,6
+2020-09-27,32,Trieste,TS,1597,1,4
+2020-09-27,93,Pordenone,PN,1033,12,7
+2020-09-27,885,Fuori Regione / Provincia Autonoma,,18,0,1
+2020-09-28,30,Udine,UD,1538,2,15
+2020-09-28,31,Gorizia,GO,424,0,6
+2020-09-28,32,Trieste,TS,1597,0,4
+2020-09-28,93,Pordenone,PN,1033,0,7
+2020-09-28,885,Fuori Regione / Provincia Autonoma,,18,0,1
+2020-09-29,30,Udine,UD,1554,16,16
+2020-09-29,31,Gorizia,GO,427,3,6
+2020-09-29,32,Trieste,TS,1601,4,3
+2020-09-29,93,Pordenone,PN,1038,5,7
+2020-09-29,885,Fuori Regione / Provincia Autonoma,,18,0,1
+2020-09-30,30,Udine,UD,1567,13,14
+2020-09-30,31,Gorizia,GO,432,5,5
+2020-09-30,32,Trieste,TS,1603,2,2
+2020-09-30,93,Pordenone,PN,1046,8,7
+2020-09-30,885,Fuori Regione / Provincia Autonoma,,18,0,0
+2020-10-01,30,Udine,UD,1584,17,14
+2020-10-01,31,Gorizia,GO,454,22,7
+2020-10-01,32,Trieste,TS,1613,10,4
+2020-10-01,93,Pordenone,PN,1053,7,8
+2020-10-01,885,Fuori Regione / Provincia Autonoma,,19,1,0
+2020-10-02,30,Udine,UD,1597,13,15
+2020-10-02,31,Gorizia,GO,470,16,8
+2020-10-02,32,Trieste,TS,1627,14,5
+2020-10-02,93,Pordenone,PN,1075,22,9
+2020-10-02,885,Fuori Regione / Provincia Autonoma,,20,1,0
+2020-10-03,30,Udine,UD,1626,29,15
+2020-10-03,31,Gorizia,GO,473,3,7
+2020-10-03,32,Trieste,TS,1636,9,6
+2020-10-03,93,Pordenone,PN,1085,10,9
+2020-10-03,885,Fuori Regione / Provincia Autonoma,,20,0,0
+2020-10-04,30,Udine,UD,1639,13,15
+2020-10-04,31,Gorizia,GO,488,15,9
+2020-10-04,32,Trieste,TS,1650,14,8
+2020-10-04,93,Pordenone,PN,1093,8,9
+2020-10-04,885,Fuori Regione / Provincia Autonoma,,20,0,0
+2020-10-05,30,Udine,UD,1649,10,16
+2020-10-05,31,Gorizia,GO,491,3,10
+2020-10-05,32,Trieste,TS,1650,0,8
+2020-10-05,93,Pordenone,PN,1101,8,10
+2020-10-05,885,Fuori Regione / Provincia Autonoma,,20,0,0
+2020-10-06,30,Udine,UD,1673,24,17
+2020-10-06,31,Gorizia,GO,491,0,9
+2020-10-06,32,Trieste,TS,1664,14,9
+2020-10-06,93,Pordenone,PN,1114,13,11
+2020-10-06,885,Fuori Regione / Provincia Autonoma,,20,0,0
+2020-10-07,30,Udine,UD,1699,26,19
+2020-10-07,31,Gorizia,GO,510,19,11
+2020-10-07,32,Trieste,TS,1680,16,11
+2020-10-07,93,Pordenone,PN,1123,9,11
+2020-10-07,885,Fuori Regione / Provincia Autonoma,,22,2,1
+2020-10-08,30,Udine,UD,1734,35,21
+2020-10-08,31,Gorizia,GO,524,14,10
+2020-10-08,32,Trieste,TS,1719,39,15
+2020-10-08,93,Pordenone,PN,1144,21,13
+2020-10-08,885,Fuori Regione / Provincia Autonoma,,23,1,1
+2020-10-09,30,Udine,UD,1804,70,30
+2020-10-09,31,Gorizia,GO,533,9,9
+2020-10-09,32,Trieste,TS,1757,38,19
+2020-10-09,93,Pordenone,PN,1172,28,14
+2020-10-09,885,Fuori Regione / Provincia Autonoma,,24,1,1
+2020-10-10,30,Udine,UD,1844,40,31
+2020-10-10,31,Gorizia,GO,555,22,12
+2020-10-10,32,Trieste,TS,1808,51,25
+2020-10-10,93,Pordenone,PN,1183,11,14
+2020-10-10,885,Fuori Regione / Provincia Autonoma,,26,2,1
+2020-10-11,30,Udine,UD,1873,29,33
+2020-10-11,31,Gorizia,GO,558,3,10
+2020-10-11,32,Trieste,TS,1864,56,31
+2020-10-11,93,Pordenone,PN,1192,9,14
+2020-10-11,885,Fuori Regione / Provincia Autonoma,,26,0,1
+2020-10-12,30,Udine,UD,1897,24,35
+2020-10-12,31,Gorizia,GO,573,15,12
+2020-10-12,32,Trieste,TS,1866,2,31
+2020-10-12,93,Pordenone,PN,1209,17,15
+2020-10-12,885,Fuori Regione / Provincia Autonoma,,27,1,1
+2020-10-13,30,Udine,UD,1910,13,34
+2020-10-13,31,Gorizia,GO,587,14,14
+2020-10-13,32,Trieste,TS,1872,6,30
+2020-10-13,93,Pordenone,PN,1214,5,14
+2020-10-13,885,Fuori Regione / Provincia Autonoma,,27,0,1
+2020-10-14,30,Udine,UD,1977,67,40
+2020-10-14,31,Gorizia,GO,609,22,14
+2020-10-14,32,Trieste,TS,1939,67,37
+2020-10-14,93,Pordenone,PN,1239,25,17
+2020-10-14,885,Fuori Regione / Provincia Autonoma,,28,1,1
+2020-10-15,30,Udine,UD,2037,60,43
+2020-10-15,31,Gorizia,GO,621,12,14
+2020-10-15,32,Trieste,TS,1980,41,37
+2020-10-15,93,Pordenone,PN,1261,22,17
+2020-10-15,885,Fuori Regione / Provincia Autonoma,,29,1,1
+2020-10-16,30,Udine,UD,2102,65,43
+2020-10-16,31,Gorizia,GO,652,31,17
+2020-10-16,32,Trieste,TS,2026,46,38
+2020-10-16,93,Pordenone,PN,1282,21,16
+2020-10-16,885,Fuori Regione / Provincia Autonoma,,31,2,1
+2020-10-17,30,Udine,UD,2160,58,45
+2020-10-17,31,Gorizia,GO,668,16,16
+2020-10-17,32,Trieste,TS,2079,53,39
+2020-10-17,93,Pordenone,PN,1319,37,19
+2020-10-17,885,Fuori Regione / Provincia Autonoma,,34,3,1
+2020-10-18,30,Udine,UD,2207,47,48
+2020-10-18,31,Gorizia,GO,670,2,16
+2020-10-18,32,Trieste,TS,2141,62,40
+2020-10-18,93,Pordenone,PN,1361,42,24
+2020-10-18,885,Fuori Regione / Provincia Autonoma,,36,2,1
+2020-10-19,30,Udine,UD,2251,44,51
+2020-10-19,31,Gorizia,GO,679,9,15
+2020-10-19,32,Trieste,TS,2157,16,42
+2020-10-19,93,Pordenone,PN,1381,20,25
+2020-10-19,885,Fuori Regione / Provincia Autonoma,,37,1,1
+2020-10-20,30,Udine,UD,2291,40,54
+2020-10-20,31,Gorizia,GO,692,13,15
+2020-10-20,32,Trieste,TS,2215,58,49
+2020-10-20,93,Pordenone,PN,1400,19,27
+2020-10-20,885,Fuori Regione / Provincia Autonoma,,38,1,2
+2020-10-21,30,Udine,UD,2382,91,58
+2020-10-21,31,Gorizia,GO,727,35,17
+2020-10-21,32,Trieste,TS,2282,67,49
+2020-10-21,93,Pordenone,PN,1422,22,26
+2020-10-21,885,Fuori Regione / Provincia Autonoma,,42,4,2
+2020-10-22,30,Udine,UD,2495,113,65
+2020-10-22,31,Gorizia,GO,751,24,19
+2020-10-22,32,Trieste,TS,2338,56,51
+2020-10-22,93,Pordenone,PN,1442,20,26
+2020-10-22,885,Fuori Regione / Provincia Autonoma,,49,7,3
+2020-10-23,30,Udine,UD,2630,135,75
+2020-10-23,31,Gorizia,GO,775,24,18
+2020-10-23,32,Trieste,TS,2476,138,64
+2020-10-23,93,Pordenone,PN,1476,34,28
+2020-10-23,885,Fuori Regione / Provincia Autonoma,,58,9,4
+2020-10-24,30,Udine,UD,2776,146,88
+2020-10-24,31,Gorizia,GO,846,71,25
+2020-10-24,32,Trieste,TS,2607,131,75
+2020-10-24,93,Pordenone,PN,1537,61,31
+2020-10-24,885,Fuori Regione / Provincia Autonoma,,61,3,4
+2020-10-25,30,Udine,UD,2928,152,103
+2020-10-25,31,Gorizia,GO,848,2,25
+2020-10-25,32,Trieste,TS,2682,75,77
+2020-10-25,93,Pordenone,PN,1636,99,39
+2020-10-25,885,Fuori Regione / Provincia Autonoma,,67,6,4
+2020-10-26,30,Udine,UD,3062,134,116
+2020-10-26,31,Gorizia,GO,867,19,27
+2020-10-26,32,Trieste,TS,2823,141,95
+2020-10-26,93,Pordenone,PN,1672,36,42
+2020-10-26,885,Fuori Regione / Provincia Autonoma,,71,4,5
+2020-10-27,30,Udine,UD,3205,143,131
+2020-10-27,31,Gorizia,GO,885,18,28
+2020-10-27,32,Trieste,TS,2880,57,95
+2020-10-27,93,Pordenone,PN,1691,19,42
+2020-10-27,885,Fuori Regione / Provincia Autonoma,,75,4,5
+2020-10-28,30,Udine,UD,3373,168,142
+2020-10-28,31,Gorizia,GO,926,41,28
+2020-10-28,32,Trieste,TS,2992,112,101
+2020-10-28,93,Pordenone,PN,1767,76,49
+2020-10-28,885,Fuori Regione / Provincia Autonoma,,84,9,6
+2020-10-29,30,Udine,UD,3552,179,151
+2020-10-29,31,Gorizia,GO,977,51,32
+2020-10-29,32,Trieste,TS,3151,159,116
+2020-10-29,93,Pordenone,PN,1839,72,57
+2020-10-29,885,Fuori Regione / Provincia Autonoma,,91,7,6
+2020-10-30,30,Udine,UD,3788,236,165
+2020-10-30,31,Gorizia,GO,1042,65,38
+2020-10-30,32,Trieste,TS,3318,167,120
+2020-10-30,93,Pordenone,PN,1866,27,56
+2020-10-30,885,Fuori Regione / Provincia Autonoma,,101,10,6
+2020-10-31,30,Udine,UD,3994,206,174
+2020-10-31,31,Gorizia,GO,1147,105,43
+2020-10-31,32,Trieste,TS,3620,302,145
+2020-10-31,93,Pordenone,PN,1964,98,61
+2020-10-31,885,Fuori Regione / Provincia Autonoma,,116,15,8
+2020-11-01,30,Udine,UD,4138,144,173
+2020-11-01,31,Gorizia,GO,1173,26,46
+2020-11-01,32,Trieste,TS,3773,153,156
+2020-11-01,93,Pordenone,PN,2040,76,58
+2020-11-01,885,Fuori Regione / Provincia Autonoma,,120,4,8
+2020-11-02,30,Udine,UD,4278,140,174
+2020-11-02,31,Gorizia,GO,1185,12,45
+2020-11-02,32,Trieste,TS,3823,50,143
+2020-11-02,93,Pordenone,PN,2054,14,55
+2020-11-02,885,Fuori Regione / Provincia Autonoma,,122,2,7
+2020-11-03,30,Udine,UD,4415,137,173
+2020-11-03,31,Gorizia,GO,1251,66,52
+2020-11-03,32,Trieste,TS,3887,64,144
+2020-11-03,93,Pordenone,PN,2146,92,65
+2020-11-03,885,Fuori Regione / Provincia Autonoma,,129,7,8
+2020-11-04,30,Udine,UD,4630,215,180
+2020-11-04,31,Gorizia,GO,1298,47,53
+2020-11-04,32,Trieste,TS,3960,73,138
+2020-11-04,93,Pordenone,PN,2242,96,68
+2020-11-04,885,Fuori Regione / Provincia Autonoma,,134,5,7
+2020-11-05,30,Udine,UD,4846,216,185
+2020-11-05,31,Gorizia,GO,1345,47,53
+2020-11-05,32,Trieste,TS,4117,157,138
+2020-11-05,93,Pordenone,PN,2359,117,74
+2020-11-05,885,Fuori Regione / Provincia Autonoma,,143,9,7
+2020-11-06,30,Udine,UD,5121,275,190
+2020-11-06,31,Gorizia,GO,1424,79,55
+2020-11-06,32,Trieste,TS,4221,104,129
+2020-11-06,93,Pordenone,PN,2430,71,81
+2020-11-06,885,Fuori Regione / Provincia Autonoma,,156,13,8
+2020-11-07,30,Udine,UD,5525,404,219
+2020-11-07,31,Gorizia,GO,1501,77,51
+2020-11-07,32,Trieste,TS,4434,213,116
+2020-11-07,93,Pordenone,PN,2594,164,90
+2020-11-07,885,Fuori Regione / Provincia Autonoma,,170,14,8
+2020-11-08,30,Udine,UD,5806,281,238
+2020-11-08,31,Gorizia,GO,1505,4,47
+2020-11-08,32,Trieste,TS,4549,115,111
+2020-11-08,93,Pordenone,PN,2689,95,93
+2020-11-08,885,Fuori Regione / Provincia Autonoma,,179,9,8
+2020-11-09,30,Udine,UD,5984,178,244
+2020-11-09,31,Gorizia,GO,1579,74,56
+2020-11-09,32,Trieste,TS,4594,45,110
+2020-11-09,93,Pordenone,PN,2709,20,94
+2020-11-09,885,Fuori Regione / Provincia Autonoma,,182,3,9
+2020-11-10,30,Udine,UD,6180,196,252
+2020-11-10,31,Gorizia,GO,1637,58,55
+2020-11-10,32,Trieste,TS,4669,75,112
+2020-11-10,93,Pordenone,PN,2855,146,101
+2020-11-10,885,Fuori Regione / Provincia Autonoma,,189,7,9
+2020-11-11,30,Udine,UD,6414,234,255
+2020-11-11,31,Gorizia,GO,1732,95,62
+2020-11-11,32,Trieste,TS,4778,109,117
+2020-11-11,93,Pordenone,PN,2977,122,105
+2020-11-11,885,Fuori Regione / Provincia Autonoma,,201,12,10
+2020-11-12,30,Udine,UD,6730,316,269
+2020-11-12,31,Gorizia,GO,1885,153,77
+2020-11-12,32,Trieste,TS,4882,104,109
+2020-11-12,93,Pordenone,PN,3233,256,125
+2020-11-12,885,Fuori Regione / Provincia Autonoma,,210,9,10
+2020-11-13,30,Udine,UD,7035,305,273
+2020-11-13,31,Gorizia,GO,2007,122,83
+2020-11-13,32,Trieste,TS,5082,200,123
+2020-11-13,93,Pordenone,PN,3424,191,142
+2020-11-13,885,Fuori Regione / Provincia Autonoma,,223,13,10
+2020-11-14,30,Udine,UD,7253,218,247
+2020-11-14,31,Gorizia,GO,2096,89,85
+2020-11-14,32,Trieste,TS,5243,161,116
+2020-11-14,93,Pordenone,PN,3507,83,130
+2020-11-14,885,Fuori Regione / Provincia Autonoma,,230,7,9
+2020-11-15,30,Udine,UD,7594,341,255
+2020-11-15,31,Gorizia,GO,2177,81,96
+2020-11-15,32,Trieste,TS,5300,57,107
+2020-11-15,93,Pordenone,PN,3629,122,134
+2020-11-15,885,Fuori Regione / Provincia Autonoma,,237,7,8
+2020-11-16,30,Udine,UD,7754,160,253
+2020-11-16,31,Gorizia,GO,2222,45,92
+2020-11-16,32,Trieste,TS,5414,114,117
+2020-11-16,93,Pordenone,PN,3763,134,151
+2020-11-16,885,Fuori Regione / Provincia Autonoma,,240,3,8
+2020-11-17,30,Udine,UD,8116,362,277
+2020-11-17,31,Gorizia,GO,2296,74,94
+2020-11-17,32,Trieste,TS,5447,33,111
+2020-11-17,93,Pordenone,PN,3821,58,138
+2020-11-17,885,Fuori Regione / Provincia Autonoma,,249,9,9
+2020-11-18,30,Udine,UD,8452,336,291
+2020-11-18,31,Gorizia,GO,2413,117,97
+2020-11-18,32,Trieste,TS,5607,160,118
+2020-11-18,93,Pordenone,PN,3995,174,145
+2020-11-18,885,Fuori Regione / Provincia Autonoma,,258,9,8
+2020-11-19,30,Udine,UD,9006,554,325
+2020-11-19,31,Gorizia,GO,2595,182,101
+2020-11-19,32,Trieste,TS,5812,205,133
+2020-11-19,93,Pordenone,PN,4226,231,142
+2020-11-19,885,Fuori Regione / Provincia Autonoma,,283,25,10
+2020-11-20,30,Udine,UD,9475,469,349
+2020-11-20,31,Gorizia,GO,2719,124,102
+2020-11-20,32,Trieste,TS,5949,137,124
+2020-11-20,93,Pordenone,PN,4500,274,154
+2020-11-20,885,Fuori Regione / Provincia Autonoma,,297,14,11
+2020-11-21,30,Udine,UD,10054,579,400
+2020-11-21,31,Gorizia,GO,2905,186,116
+2020-11-21,32,Trieste,TS,6077,128,119
+2020-11-21,93,Pordenone,PN,4638,138,162
+2020-11-21,885,Fuori Regione / Provincia Autonoma,,309,12,11
+2020-11-22,30,Udine,UD,10425,371,404
+2020-11-22,31,Gorizia,GO,3008,103,119
+2020-11-22,32,Trieste,TS,6206,129,129
+2020-11-22,93,Pordenone,PN,4707,69,154
+2020-11-22,885,Fuori Regione / Provincia Autonoma,,312,3,11
+2020-11-23,30,Udine,UD,10614,189,409
+2020-11-23,31,Gorizia,GO,3035,27,116
+2020-11-23,32,Trieste,TS,6334,128,131
+2020-11-23,93,Pordenone,PN,4735,28,139
+2020-11-23,885,Fuori Regione / Provincia Autonoma,,317,5,11
+2020-11-24,30,Udine,UD,10951,337,405
+2020-11-24,31,Gorizia,GO,3063,28,110
+2020-11-24,32,Trieste,TS,6387,53,134
+2020-11-24,93,Pordenone,PN,4863,128,149
+2020-11-24,885,Fuori Regione / Provincia Autonoma,,325,8,11
+2020-11-25,30,Udine,UD,11302,351,407
+2020-11-25,31,Gorizia,GO,3185,122,110
+2020-11-25,32,Trieste,TS,6470,83,123
+2020-11-25,93,Pordenone,PN,4998,135,143
+2020-11-25,885,Fuori Regione / Provincia Autonoma,,330,5,10
+2020-11-26,30,Udine,UD,11739,437,390
+2020-11-26,31,Gorizia,GO,3323,138,104
+2020-11-26,32,Trieste,TS,6569,99,108
+2020-11-26,93,Pordenone,PN,5134,136,130
+2020-11-26,885,Fuori Regione / Provincia Autonoma,,334,4,7
+2020-11-27,30,Udine,UD,12111,372,377
+2020-11-27,31,Gorizia,GO,3513,190,113
+2020-11-27,32,Trieste,TS,6693,124,106
+2020-11-27,93,Pordenone,PN,5309,175,116
+2020-11-27,885,Fuori Regione / Provincia Autonoma,,337,3,6
+2020-11-28,30,Udine,UD,12806,695,393
+2020-11-28,31,Gorizia,GO,3618,105,102
+2020-11-28,32,Trieste,TS,7069,376,142
+2020-11-28,93,Pordenone,PN,5546,237,130
+2020-11-28,885,Fuori Regione / Provincia Autonoma,,356,19,7
+2020-11-29,30,Udine,UD,13174,368,393
+2020-11-29,31,Gorizia,GO,3683,65,96
+2020-11-29,32,Trieste,TS,7159,90,136
+2020-11-29,93,Pordenone,PN,5695,149,141
+2020-11-29,885,Fuori Regione / Provincia Autonoma,,364,8,7
+2020-11-30,30,Udine,UD,13518,344,415
+2020-11-30,31,Gorizia,GO,3733,50,100
+2020-11-30,32,Trieste,TS,7264,105,133
+2020-11-30,93,Pordenone,PN,5768,73,148
+2020-11-30,885,Fuori Regione / Provincia Autonoma,,367,3,7
+2020-12-01,30,Udine,UD,13875,357,418
+2020-12-01,31,Gorizia,GO,3803,70,106
+2020-12-01,32,Trieste,TS,7433,169,149
+2020-12-01,93,Pordenone,PN,5899,131,148
+2020-12-01,885,Fuori Regione / Provincia Autonoma,,376,9,7
+2020-12-02,30,Udine,UD,14203,328,414
+2020-12-02,31,Gorizia,GO,3947,144,109
+2020-12-02,32,Trieste,TS,7542,109,153
+2020-12-02,93,Pordenone,PN,6120,221,160
+2020-12-02,885,Fuori Regione / Provincia Autonoma,,386,10,8
+2020-12-03,30,Udine,UD,14437,234,385
+2020-12-03,31,Gorizia,GO,4088,141,109
+2020-12-03,32,Trieste,TS,7696,154,161
+2020-12-03,93,Pordenone,PN,6353,233,174
+2020-12-03,885,Fuori Regione / Provincia Autonoma,,396,10,9
+2020-12-04,30,Udine,UD,14812,375,386
+2020-12-04,31,Gorizia,GO,4230,142,102
+2020-12-04,32,Trieste,TS,7901,205,173
+2020-12-04,93,Pordenone,PN,6652,299,192
+2020-12-04,885,Fuori Regione / Provincia Autonoma,,415,19,11
+2020-12-05,30,Udine,UD,15195,383,341
+2020-12-05,31,Gorizia,GO,4286,56,95
+2020-12-05,32,Trieste,TS,7992,91,132
+2020-12-05,93,Pordenone,PN,6868,216,189
+2020-12-05,885,Fuori Regione / Provincia Autonoma,,424,9,10
+2020-12-06,30,Udine,UD,15604,409,347
+2020-12-06,31,Gorizia,GO,4333,47,93
+2020-12-06,32,Trieste,TS,8072,80,130
+2020-12-06,93,Pordenone,PN,7024,156,190
+2020-12-06,885,Fuori Regione / Provincia Autonoma,,434,10,10
+2020-12-07,30,Udine,UD,15748,144,319
+2020-12-07,31,Gorizia,GO,4362,29,90
+2020-12-07,32,Trieste,TS,8136,64,125
+2020-12-07,93,Pordenone,PN,7141,117,196
+2020-12-07,885,Fuori Regione / Provincia Autonoma,,439,5,10
+2020-12-08,30,Udine,UD,16148,400,325
+2020-12-08,31,Gorizia,GO,4378,16,82
+2020-12-08,32,Trieste,TS,8223,87,113
+2020-12-08,93,Pordenone,PN,7291,150,199
+2020-12-08,885,Fuori Regione / Provincia Autonoma,,444,5,10
+2020-12-09,30,Udine,UD,16389,241,312
+2020-12-09,31,Gorizia,GO,4470,92,75
+2020-12-09,32,Trieste,TS,8387,164,121
+2020-12-09,93,Pordenone,PN,7415,124,185
+2020-12-09,885,Fuori Regione / Provincia Autonoma,,456,12,10
+2020-12-10,30,Udine,UD,16704,315,324
+2020-12-10,31,Gorizia,GO,4573,103,69
+2020-12-10,32,Trieste,TS,8455,68,108
+2020-12-10,93,Pordenone,PN,7589,174,177
+2020-12-10,885,Fuori Regione / Provincia Autonoma,,468,12,10
+2020-12-11,30,Udine,UD,16996,292,312
+2020-12-11,31,Gorizia,GO,4686,113,65
+2020-12-11,32,Trieste,TS,8636,181,105
+2020-12-11,93,Pordenone,PN,7836,247,169
+2020-12-11,885,Fuori Regione / Provincia Autonoma,,478,10,9
+2020-12-12,30,Udine,UD,17412,416,317
+2020-12-12,31,Gorizia,GO,4731,45,64
+2020-12-12,32,Trieste,TS,8739,103,107
+2020-12-12,93,Pordenone,PN,8144,308,182
+2020-12-12,885,Fuori Regione / Provincia Autonoma,,490,12,9
+2020-12-13,30,Udine,UD,17676,264,296
+2020-12-13,31,Gorizia,GO,4788,57,65
+2020-12-13,32,Trieste,TS,8868,129,114
+2020-12-13,93,Pordenone,PN,8262,118,177
+2020-12-13,885,Fuori Regione / Provincia Autonoma,,495,5,9
+2020-12-14,30,Udine,UD,17903,227,308
+2020-12-14,31,Gorizia,GO,4810,22,64
+2020-12-14,32,Trieste,TS,8919,51,112
+2020-12-14,93,Pordenone,PN,8363,101,175
+2020-12-14,885,Fuori Regione / Provincia Autonoma,,496,1,8
+2020-12-15,30,Udine,UD,18367,464,317
+2020-12-15,31,Gorizia,GO,4886,76,73
+2020-12-15,32,Trieste,TS,8987,68,109
+2020-12-15,93,Pordenone,PN,8571,208,183
+2020-12-15,885,Fuori Regione / Provincia Autonoma,,509,13,9
+2020-12-16,30,Udine,UD,18738,371,336
+2020-12-16,31,Gorizia,GO,5023,137,79
+2020-12-16,32,Trieste,TS,9116,129,104
+2020-12-16,93,Pordenone,PN,8705,134,184
+2020-12-16,885,Fuori Regione / Provincia Autonoma,,517,8,9
+2020-12-17,30,Udine,UD,19074,336,339
+2020-12-17,31,Gorizia,GO,5099,76,75
+2020-12-17,32,Trieste,TS,9210,94,108
+2020-12-17,93,Pordenone,PN,8891,186,186
+2020-12-17,885,Fuori Regione / Provincia Autonoma,,532,15,9
+2020-12-18,30,Udine,UD,19446,372,350
+2020-12-18,31,Gorizia,GO,5168,69,69
+2020-12-18,32,Trieste,TS,9317,107,97
+2020-12-18,93,Pordenone,PN,9088,197,179
+2020-12-18,885,Fuori Regione / Provincia Autonoma,,540,8,9
+2020-12-19,30,Udine,UD,19812,366,343
+2020-12-19,31,Gorizia,GO,5269,101,77
+2020-12-19,32,Trieste,TS,9462,145,103
+2020-12-19,93,Pordenone,PN,9445,357,186
+2020-12-19,885,Fuori Regione / Provincia Autonoma,,545,5,8
+2020-12-20,30,Udine,UD,20210,398,362
+2020-12-20,31,Gorizia,GO,5280,11,70
+2020-12-20,32,Trieste,TS,9535,73,95
+2020-12-20,93,Pordenone,PN,9605,160,192
+2020-12-20,885,Fuori Regione / Provincia Autonoma,,561,16,9
+2020-12-21,30,Udine,UD,20273,63,339
+2020-12-21,31,Gorizia,GO,5323,43,73
+2020-12-21,32,Trieste,TS,9603,68,98
+2020-12-21,93,Pordenone,PN,9672,67,187
+2020-12-21,885,Fuori Regione / Provincia Autonoma,,564,3,10
+2020-12-22,30,Udine,UD,20505,232,305
+2020-12-22,31,Gorizia,GO,5366,43,69
+2020-12-22,32,Trieste,TS,9671,68,98
+2020-12-22,93,Pordenone,PN,9873,201,186
+2020-12-22,885,Fuori Regione / Provincia Autonoma,,569,5,9
+2020-12-23,30,Udine,UD,20497,-8,251
+2020-12-23,31,Gorizia,GO,5419,53,57
+2020-12-23,32,Trieste,TS,9696,25,83
+2020-12-23,93,Pordenone,PN,9711,-162,144
+2020-12-23,885,Fuori Regione / Provincia Autonoma,,561,-8,6
+2020-12-24,30,Udine,UD,20764,267,241
+2020-12-24,31,Gorizia,GO,5631,212,76
+2020-12-24,32,Trieste,TS,9886,190,97
+2020-12-24,93,Pordenone,PN,9866,155,139
+2020-12-24,885,Fuori Regione / Provincia Autonoma,,568,7,5
+2020-12-25,30,Udine,UD,21020,256,225
+2020-12-25,31,Gorizia,GO,5646,15,68
+2020-12-25,32,Trieste,TS,10018,132,100
+2020-12-25,93,Pordenone,PN,10039,173,136
+2020-12-25,885,Fuori Regione / Provincia Autonoma,,576,8,5
+2020-12-26,30,Udine,UD,21071,51,180
+2020-12-26,31,Gorizia,GO,5712,66,63
+2020-12-26,32,Trieste,TS,10086,68,89
+2020-12-26,93,Pordenone,PN,10076,37,90
+2020-12-26,885,Fuori Regione / Provincia Autonoma,,578,2,5
+2020-12-27,30,Udine,UD,21131,60,132
+2020-12-27,31,Gorizia,GO,5719,7,63
+2020-12-27,32,Trieste,TS,10123,37,84
+2020-12-27,93,Pordenone,PN,10108,32,72
+2020-12-27,885,Fuori Regione / Provincia Autonoma,,586,8,4
+2020-12-28,30,Udine,UD,21188,57,131
+2020-12-28,31,Gorizia,GO,5744,25,60
+2020-12-28,32,Trieste,TS,10187,64,83
+2020-12-28,93,Pordenone,PN,10146,38,68
+2020-12-28,885,Fuori Regione / Provincia Autonoma,,589,3,4
+2020-12-29,30,Udine,UD,21451,263,135
+2020-12-29,31,Gorizia,GO,5804,60,63
+2020-12-29,32,Trieste,TS,10242,55,82
+2020-12-29,93,Pordenone,PN,10248,102,54
+2020-12-29,885,Fuori Regione / Provincia Autonoma,,602,13,5
+2020-12-30,30,Udine,UD,21811,360,188
+2020-12-30,31,Gorizia,GO,5925,121,72
+2020-12-30,32,Trieste,TS,10420,178,103
+2020-12-30,93,Pordenone,PN,10381,133,96
+2020-12-30,885,Fuori Regione / Provincia Autonoma,,613,11,7
+2020-12-31,30,Udine,UD,22038,227,182
+2020-12-31,31,Gorizia,GO,6165,240,76
+2020-12-31,32,Trieste,TS,10585,165,100
+2020-12-31,93,Pordenone,PN,10621,240,108
+2020-12-31,885,Fuori Regione / Provincia Autonoma,,618,5,7
+2021-01-01,30,Udine,UD,22379,341,194
+2021-01-01,31,Gorizia,GO,6189,24,78
+2021-01-01,32,Trieste,TS,10768,183,107
+2021-01-01,93,Pordenone,PN,10778,157,106
+2021-01-01,885,Fuori Regione / Provincia Autonoma,,628,10,7
+2021-01-02,30,Udine,UD,22495,116,203
+2021-01-02,31,Gorizia,GO,6306,117,85
+2021-01-02,32,Trieste,TS,10815,47,104
+2021-01-02,93,Pordenone,PN,10856,78,111
+2021-01-02,885,Fuori Regione / Provincia Autonoma,,629,1,7
+2021-01-03,30,Udine,UD,22568,73,205
+2021-01-03,31,Gorizia,GO,6334,28,88
+2021-01-03,32,Trieste,TS,10853,38,104
+2021-01-03,93,Pordenone,PN,10912,56,115
+2021-01-03,885,Fuori Regione / Provincia Autonoma,,634,5,7
+2021-01-04,30,Udine,UD,22681,113,213
+2021-01-04,31,Gorizia,GO,6361,27,88
+2021-01-04,32,Trieste,TS,10949,96,109
+2021-01-04,93,Pordenone,PN,10955,43,116
+2021-01-04,885,Fuori Regione / Provincia Autonoma,,636,2,7
+2021-01-05,30,Udine,UD,22940,259,213
+2021-01-05,31,Gorizia,GO,6446,85,92
+2021-01-05,32,Trieste,TS,11141,192,128
+2021-01-05,93,Pordenone,PN,11093,138,121
+2021-01-05,885,Fuori Regione / Provincia Autonoma,,650,14,7
+2021-01-06,30,Udine,UD,23169,229,194
+2021-01-06,31,Gorizia,GO,6545,99,89
+2021-01-06,32,Trieste,TS,11305,164,126
+2021-01-06,93,Pordenone,PN,11199,106,117
+2021-01-06,885,Fuori Regione / Provincia Autonoma,,658,8,6
+2021-01-07,30,Udine,UD,23618,449,226
+2021-01-07,31,Gorizia,GO,6723,178,80
+2021-01-07,32,Trieste,TS,11468,163,126
+2021-01-07,93,Pordenone,PN,11470,271,121
+2021-01-07,885,Fuori Regione / Provincia Autonoma,,664,6,7
+2021-01-08,30,Udine,UD,23833,215,208
+2021-01-08,31,Gorizia,GO,6811,88,89
+2021-01-08,32,Trieste,TS,11602,134,119
+2021-01-08,93,Pordenone,PN,11661,191,126
+2021-01-08,885,Fuori Regione / Provincia Autonoma,,669,5,6
+2021-01-09,30,Udine,UD,24331,498,262
+2021-01-09,31,Gorizia,GO,6946,135,91
+2021-01-09,32,Trieste,TS,11742,140,132
+2021-01-09,93,Pordenone,PN,11886,225,147
+2021-01-09,885,Fuori Regione / Provincia Autonoma,,686,17,8
+2021-01-10,30,Udine,UD,24670,339,300
+2021-01-10,31,Gorizia,GO,7007,61,96
+2021-01-10,32,Trieste,TS,11827,85,139
+2021-01-10,93,Pordenone,PN,12034,148,160
+2021-01-10,885,Fuori Regione / Provincia Autonoma,,695,9,9
+2021-01-11,30,Udine,UD,24867,197,312
+2021-01-11,31,Gorizia,GO,7046,39,98
+2021-01-11,32,Trieste,TS,11870,43,132
+2021-01-11,93,Pordenone,PN,12110,76,165
+2021-01-11,885,Fuori Regione / Provincia Autonoma,,701,6,9
+2021-01-12,30,Udine,UD,25119,252,311
+2021-01-12,31,Gorizia,GO,7150,104,101
+2021-01-12,32,Trieste,TS,11935,65,113
+2021-01-12,93,Pordenone,PN,12318,208,175
+2021-01-12,885,Fuori Regione / Provincia Autonoma,,719,18,10
+2021-01-13,30,Udine,UD,25369,250,314
+2021-01-13,31,Gorizia,GO,7204,54,94
+2021-01-13,32,Trieste,TS,12042,107,105
+2021-01-13,93,Pordenone,PN,12443,125,178
+2021-01-13,885,Fuori Regione / Provincia Autonoma,,729,10,10
+2021-01-14,30,Udine,UD,25699,330,297
+2021-01-14,31,Gorizia,GO,7303,99,83
+2021-01-14,32,Trieste,TS,12158,116,99
+2021-01-14,93,Pordenone,PN,12693,250,175
+2021-01-14,885,Fuori Regione / Provincia Autonoma,,739,10,11
+2021-01-15,30,Udine,UD,26113,414,326
+2021-01-15,31,Gorizia,GO,7372,69,80
+2021-01-15,32,Trieste,TS,12295,137,99
+2021-01-15,93,Pordenone,PN,12982,289,189
+2021-01-15,885,Fuori Regione / Provincia Autonoma,,749,10,11
+2021-01-16,30,Udine,UD,26530,417,314
+2021-01-16,31,Gorizia,GO,7427,55,69
+2021-01-16,32,Trieste,TS,12402,107,94
+2021-01-16,93,Pordenone,PN,13262,280,197
+2021-01-16,885,Fuori Regione / Provincia Autonoma,,760,11,11
+2021-01-17,30,Udine,UD,26696,166,289
+2021-01-17,31,Gorizia,GO,7455,28,64
+2021-01-17,32,Trieste,TS,12457,55,90
+2021-01-17,93,Pordenone,PN,13394,132,194
+2021-01-17,885,Fuori Regione / Provincia Autonoma,,764,4,10
+2021-01-18,30,Udine,UD,26759,63,270
+2021-01-18,31,Gorizia,GO,7478,23,62
+2021-01-18,32,Trieste,TS,12490,33,89
+2021-01-18,93,Pordenone,PN,13427,33,188
+2021-01-18,885,Fuori Regione / Provincia Autonoma,,765,1,9
+2021-01-19,30,Udine,UD,26945,186,261
+2021-01-19,31,Gorizia,GO,7506,28,51
+2021-01-19,32,Trieste,TS,12562,72,90
+2021-01-19,93,Pordenone,PN,13589,162,182
+2021-01-19,885,Fuori Regione / Provincia Autonoma,,771,6,7
