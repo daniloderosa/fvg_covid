@@ -41,11 +41,11 @@ fvg <- fvg %>%
   )
 
 
-ieri = Sys.Date()-1
-fvg_ieri <- fvg %>% 
+oggi = Sys.Date()
+fvg_oggi <- fvg %>% 
   filter(
-    data == ieri
+    data == oggi
   )
 
-write_csv(fvg_ieri, file = "data/fvg_latest.csv")
+write_csv(fvg_oggi, file = "data/fvg_latest.csv")
 write_csv(fvg, file = "data/fvg_complessivo.csv")
