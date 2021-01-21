@@ -1,6 +1,7 @@
 library(tidyverse)
 library(lubridate)
 library(zoo)
+setwd("dati_regione")
 casi <- read.csv("https://github.com/pcm-dpc/COVID-19/raw/master/dati-regioni/dpc-covid19-ita-regioni.csv")
 
 fvg <- casi %>% 
