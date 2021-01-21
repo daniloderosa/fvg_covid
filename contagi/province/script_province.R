@@ -40,5 +40,57 @@ province_fvg_oggi <- province_fvg %>%
     data == oggi
   )
 
+
+
+#wide format con i dati giornalieri
+province_fvg_wide <- province_fvg %>% 
+  select(
+    data,
+    denominazione_provincia,
+    casi_giornalieri
+  ) %>% 
+  filter(
+    denominazione_provincia != "Fuori Regione / Provincia Autonoma",
+    data > Sys.Date()-31
+  ) %>% 
+  spread(denominazione_provincia, casi_giornalieri)
+
+#wide format con le medie mobili
+province_fvg_wide_mediemobili <- province_fvg %>% 
+  select(
+    data,
+    denominazione_provincia,
+    nuovi_positivi_media_mobile
+  ) %>% 
+  filter(
+    denominazione_provincia != "Fuori Regione / Provincia Autonoma",
+    data > Sys.Date()-31
+  ) %>% 
+  spread(denominazione_provincia, nuovi_positivi_media_mobile)
+
+#renaming columns in wide_mediemobili
+province_fvg_wide_mediemobili <- province_fvg_wide_mediemobili %>% 
+  rename(
+    Gorizia_mediamobile = Gorizia,
+    Pordenone_mediamobile = Pordenone,
+    Udine_mediamobile = Udine,
+    Trieste_mediamobile = Trieste
+  )
+
+province_fvg_wide <- left_join(province_fvg_wide,province_fvg_wide_mediemobili, by = "data")
+province_fvg_wide <- province_fvg_wide %>% 
+  select(
+    data,
+    Udine,
+    Udine_mediamobile,
+    Pordenone,
+    Pordenone_mediamobile,
+    Trieste,
+    Trieste_mediamobile,
+    Gorizia,
+    Gorizia_mediamobile
+  )
+
+write_csv(province_fvg_wide, file = "data/province_fvg_last30days_wide.csv")
 write_csv(province_fvg_oggi, file = "data/province_fvg_latest.csv")
 write_csv(province_fvg, file = "data/province_fvg_complessivo.csv")

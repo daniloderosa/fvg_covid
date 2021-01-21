@@ -14,11 +14,6 @@ fvg$data <- ymd_hms(fvg$data)
 fvg$data <- as.Date(fvg$data)
 fvg_backup <- fvg
 
-#fvg_from_oct <- fvg %>% 
-  filter(
-    data >= "2020-10-01"
-  )
-
 fvg <- fvg %>% 
   select(
     data,
@@ -37,7 +32,8 @@ fvg <- fvg %>%
     Tasso_positivi = round((nuovi_positivi/tamponi_giornaliero)*100,2),
     tasso_positivi_molecolare = round((positivi_molecolare_giornaliero/tamponi_molecolare_giornaliero)*100,2),
     tasso_positivi_rapido = round((positivi_rapido_giornaliero/tamponi_rapido_giornaliero)*100,2),
-    nuovi_positivi_media_mobile = round(rollmeanr(nuovi_positivi, k = 7, fill = 0))
+    nuovi_positivi_media_mobile = round(rollmeanr(nuovi_positivi, k = 7, fill = 0)),
+    deceduti_giornalieri = deceduti - lag(deceduti)
   )
 
 
@@ -47,5 +43,22 @@ fvg_oggi <- fvg %>%
     data == oggi
   )
 
+fvg_30days <- fvg %>% 
+  filter(
+    data > Sys.Date()-31
+  ) %>% 
+  select(
+    data,
+    nuovi_positivi,
+    nuovi_positivi_media_mobile,
+    deceduti_giornalieri,
+    terapia_intensiva,
+    ingressi_terapia_intensiva,
+    Tasso_positivi,
+    tasso_positivi_molecolare,
+    tasso_positivi_rapido
+  )
+
 write_csv(fvg_oggi, file = "data/fvg_latest.csv")
+write_csv(fvg_30days, file = "data/fvg_last30days.csv")
 write_csv(fvg, file = "data/fvg_complessivo.csv")
