@@ -33,7 +33,6 @@ fvg <- fvg %>%
     Tasso_positivi = round((nuovi_positivi/tamponi_giornaliero)*100,2),
     tasso_positivi_molecolare = round((positivi_molecolare_giornaliero/tamponi_molecolare_giornaliero)*100,2),
     tasso_positivi_rapido = round((positivi_rapido_giornaliero/tamponi_rapido_giornaliero)*100,2),
-    tasso_positivi_casi = round((nuovi_positivi/casi_testati_giornaliero)*100,2),
     nuovi_positivi_media_mobile = round(rollmeanr(nuovi_positivi, k = 7, fill = 0)),
     deceduti_giornalieri = deceduti - lag(deceduti)
   )
@@ -58,8 +57,7 @@ fvg_30days <- fvg %>%
     ingressi_terapia_intensiva,
     Tasso_positivi,
     tasso_positivi_molecolare,
-    tasso_positivi_rapido,
-    tasso_positivi_casi
+    tasso_positivi_rapido
   )
 
 write_csv(fvg_oggi, file = "data/fvg_latest.csv")
