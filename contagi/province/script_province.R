@@ -1,7 +1,7 @@
 library(tidyverse)
 library(lubridate)
 library(zoo)
-setwd("contagi/province")
+#setwd("../province")
 casi <- read.csv("https://github.com/pcm-dpc/COVID-19/raw/master/dati-province/dpc-covid19-ita-province.csv")
 
 province_fvg <- casi %>% 
