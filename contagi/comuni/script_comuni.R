@@ -1,5 +1,6 @@
 library(tidyverse)
 library(lubridate)
+setwd("contagi/comuni")
 fvg_vecchi <- read_csv("https://covid19map.protezionecivile.fvg.it/history.csv")
 fvg_nuovi <- read_csv("https://covid19map.protezionecivile.fvg.it/data.csv")
 
@@ -43,4 +44,3 @@ fvg <- fvgjoin
 rm(list = c("fvg_nuovi_senza_popolazione","fvg_popolazione","fvgjoin"))
 
 write_csv(fvg, file="data/comuni_fvg.csv", na="")
-#write_delim(fvg, file="fvg_casi.csv", delim = ";", na="")
