@@ -1,6 +1,6 @@
 data,codice_provincia,denominazione_provincia,sigla_provincia,totale_casi,casi_giornalieri,nuovi_positivi_media_mobile
-2021-02-03,30,Udine,UD,30334,389,221
-2021-02-03,31,Gorizia,GO,8226,95,44
-2021-02-03,32,Trieste,TS,13678,101,67
-2021-02-03,93,Pordenone,PN,15550,97,107
-2021-02-03,885,Fuori Regione / Provincia Autonoma,,825,10,3
+2021-02-04,30,Udine,UD,30542,208,195
+2021-02-04,31,Gorizia,GO,8244,18,39
+2021-02-04,32,Trieste,TS,13715,37,61
+2021-02-04,93,Pordenone,PN,15638,88,102
+2021-02-04,885,Fuori Regione / Provincia Autonoma,,829,4,3
