@@ -1737,3 +1737,8 @@ data,codice_provincia,denominazione_provincia,sigla_provincia,totale_casi,casi_g
 2021-03-01,32,Trieste,TS,14797,31,49
 2021-03-01,93,Pordenone,PN,16857,6,48
 2021-03-01,885,Fuori Regione / Provincia Autonoma,,895,2,3
+2021-03-02,30,Udine,UD,35695,364,296
+2021-03-02,31,Gorizia,GO,9130,26,49
+2021-03-02,32,Trieste,TS,14815,18,47
+2021-03-02,93,Pordenone,PN,16924,67,50
+2021-03-02,885,Fuori Regione / Provincia Autonoma,,899,4,3
