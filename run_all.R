@@ -184,9 +184,9 @@ fvg_filter_età <- fvg_filter_età %>%
   group_by(fascia_anagrafica) %>% 
   summarise(
     donne = sum(sesso_femminile),
-    uomini = sum(sesso_maschile)
+    uomini = sum(sesso_maschile) 
   )
 
 
-write_excel_csv2(fvg_filter_età, file = "eta_sesso.csv")
+write_csv(fvg_filter_età, file = "eta_sesso.csv")
 
