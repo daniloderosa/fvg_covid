@@ -191,5 +191,16 @@ fvg_filter_età <- fvg_filter_età %>%
 fvg_vaccini_età_giornaliero <- fvg_età
 
 
-write_csv(fvg_filter_età, file = "eta_sesso.csv")
+Johnson_Johnson <- fvg_vaccini_età_giornaliero %>% 
+  filter(fornitore == "Janssen")
 
+Johnson_Johnson$seconda_dose = Johnson_Johnson$prima_dose
+Johnson_Johnson$prima_dose = 0
+
+nonJohnson_Johnson <- fvg_vaccini_età_giornaliero %>% 
+  filter(fornitore != "Janssen")
+
+fvg_vaccini_età_giornaliero <- rbind(nonJohnson_Johnson, Johnson_Johnson)
+
+write_csv(fvg_filter_età, file = "eta_sesso.csv")
+write_csv(fvg_vaccini_età_giornaliero, file = "vaccini_fvg_giornaliero_età.csv")
