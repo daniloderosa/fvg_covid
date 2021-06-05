@@ -188,5 +188,8 @@ fvg_filter_età <- fvg_filter_età %>%
   )
 
 
+fvg_vaccini_età_giornaliero <- fvg_età
+
+
 write_csv(fvg_filter_età, file = "eta_sesso.csv")
 
