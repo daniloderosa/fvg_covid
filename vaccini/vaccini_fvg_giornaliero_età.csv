@@ -60,7 +60,7 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-01-07,Pfizer/BioNTech,FVG,20-29,78,164,242,0,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-01-07,Pfizer/BioNTech,FVG,30-39,135,233,368,0,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-01-07,Pfizer/BioNTech,FVG,40-49,131,345,476,0,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-01-07,Pfizer/BioNTech,FVG,50-59,157,404,561,0,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-01-07,Pfizer/BioNTech,FVG,50-59,158,404,562,0,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-01-07,Pfizer/BioNTech,FVG,60-69,128,160,288,0,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-01-07,Pfizer/BioNTech,FVG,70-79,52,14,66,0,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-01-07,Pfizer/BioNTech,FVG,80-89,23,17,40,0,ITH,ITH4,6,Friuli-Venezia Giulia
@@ -1002,10 +1002,10 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-03-22,Pfizer/BioNTech,FVG,90+,107,239,108,238,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-03-22,Vaxzevria (AstraZeneca),FVG,12-19,1,1,2,0,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-03-22,Vaxzevria (AstraZeneca),FVG,20-29,26,35,61,0,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-03-22,Vaxzevria (AstraZeneca),FVG,30-39,46,68,114,0,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-03-22,Vaxzevria (AstraZeneca),FVG,30-39,47,68,115,0,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-03-22,Vaxzevria (AstraZeneca),FVG,40-49,76,93,169,0,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-03-22,Vaxzevria (AstraZeneca),FVG,50-59,48,121,169,0,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-03-22,Vaxzevria (AstraZeneca),FVG,60-69,35,60,95,0,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-03-22,Vaxzevria (AstraZeneca),FVG,50-59,48,122,170,0,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-03-22,Vaxzevria (AstraZeneca),FVG,60-69,36,60,96,0,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-03-22,Vaxzevria (AstraZeneca),FVG,70-79,3,2,5,0,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-03-23,Moderna,FVG,40-49,0,1,1,0,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-03-23,Moderna,FVG,80-89,22,37,57,2,ITH,ITH4,6,Friuli-Venezia Giulia
@@ -1465,7 +1465,7 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-04-13,Moderna,FVG,60-69,26,24,5,45,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-04-13,Moderna,FVG,70-79,44,23,11,56,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-04-13,Moderna,FVG,80-89,53,141,104,90,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-04-13,Moderna,FVG,90+,42,117,101,58,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-04-13,Moderna,FVG,90+,42,118,102,58,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-04-13,Pfizer/BioNTech,FVG,12-19,7,8,15,0,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-04-13,Pfizer/BioNTech,FVG,20-29,40,63,79,24,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-04-13,Pfizer/BioNTech,FVG,30-39,64,73,107,30,ITH,ITH4,6,Friuli-Venezia Giulia
@@ -1483,7 +1483,6 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-04-13,Vaxzevria (AstraZeneca),FVG,60-69,190,188,378,0,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-04-13,Vaxzevria (AstraZeneca),FVG,70-79,1044,1153,2196,1,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-04-13,Vaxzevria (AstraZeneca),FVG,80-89,5,2,7,0,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-04-13,Vaxzevria (AstraZeneca),FVG,90+,0,1,1,0,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-04-14,Moderna,FVG,40-49,1,0,1,0,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-04-14,Moderna,FVG,50-59,1,1,1,1,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-04-14,Moderna,FVG,60-69,0,1,1,0,ITH,ITH4,6,Friuli-Venezia Giulia
@@ -1519,7 +1518,7 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-04-15,Pfizer/BioNTech,FVG,30-39,72,76,116,32,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-04-15,Pfizer/BioNTech,FVG,40-49,103,147,187,63,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-04-15,Pfizer/BioNTech,FVG,50-59,181,225,301,105,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-04-15,Pfizer/BioNTech,FVG,60-69,349,247,427,169,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-04-15,Pfizer/BioNTech,FVG,60-69,350,247,428,169,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-04-15,Pfizer/BioNTech,FVG,70-79,582,568,748,402,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-04-15,Pfizer/BioNTech,FVG,80-89,598,892,1242,248,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-04-15,Pfizer/BioNTech,FVG,90+,88,231,251,68,ITH,ITH4,6,Friuli-Venezia Giulia
@@ -1663,7 +1662,7 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-04-21,Vaxzevria (AstraZeneca),FVG,20-29,2,0,2,0,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-04-21,Vaxzevria (AstraZeneca),FVG,40-49,2,3,5,0,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-04-21,Vaxzevria (AstraZeneca),FVG,50-59,6,5,11,0,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-04-21,Vaxzevria (AstraZeneca),FVG,60-69,271,315,586,0,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-04-21,Vaxzevria (AstraZeneca),FVG,60-69,271,316,587,0,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-04-21,Vaxzevria (AstraZeneca),FVG,70-79,1066,1261,2327,0,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-04-21,Vaxzevria (AstraZeneca),FVG,80-89,2,2,4,0,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-04-22,Moderna,FVG,20-29,2,0,2,0,ITH,ITH4,6,Friuli-Venezia Giulia
@@ -1709,7 +1708,7 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-04-23,Vaxzevria (AstraZeneca),FVG,30-39,4,1,5,0,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-04-23,Vaxzevria (AstraZeneca),FVG,40-49,1,1,2,0,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-04-23,Vaxzevria (AstraZeneca),FVG,50-59,3,4,7,0,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-04-23,Vaxzevria (AstraZeneca),FVG,60-69,206,231,437,0,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-04-23,Vaxzevria (AstraZeneca),FVG,60-69,207,231,438,0,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-04-23,Vaxzevria (AstraZeneca),FVG,70-79,547,623,1170,0,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-04-23,Vaxzevria (AstraZeneca),FVG,80-89,1,2,3,0,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-04-24,Moderna,FVG,40-49,1,1,2,0,ITH,ITH4,6,Friuli-Venezia Giulia
@@ -1913,13 +1912,13 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-05-03,Pfizer/BioNTech,FVG,80-89,424,690,70,1044,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-03,Pfizer/BioNTech,FVG,90+,79,197,53,223,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-03,Vaxzevria (AstraZeneca),FVG,50-59,0,1,1,0,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-05-03,Vaxzevria (AstraZeneca),FVG,60-69,153,183,336,0,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-05-03,Vaxzevria (AstraZeneca),FVG,60-69,152,183,335,0,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-03,Vaxzevria (AstraZeneca),FVG,70-79,548,717,1265,0,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-04,Moderna,FVG,12-19,2,1,3,0,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-05-04,Moderna,FVG,20-29,29,33,60,2,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-05-04,Moderna,FVG,20-29,29,34,61,2,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-04,Moderna,FVG,30-39,34,41,73,2,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-05-04,Moderna,FVG,40-49,74,119,192,1,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-05-04,Moderna,FVG,50-59,229,212,439,2,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-05-04,Moderna,FVG,40-49,74,120,193,1,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-05-04,Moderna,FVG,50-59,229,213,440,2,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-04,Moderna,FVG,60-69,58,48,98,8,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-04,Moderna,FVG,70-79,19,29,41,7,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-04,Moderna,FVG,80-89,35,75,71,39,ITH,ITH4,6,Friuli-Venezia Giulia
@@ -1978,7 +1977,7 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-05-06,Pfizer/BioNTech,FVG,20-29,164,201,268,97,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-06,Pfizer/BioNTech,FVG,30-39,198,248,336,110,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-06,Pfizer/BioNTech,FVG,40-49,447,526,776,197,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-05-06,Pfizer/BioNTech,FVG,50-59,921,920,1513,328,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-05-06,Pfizer/BioNTech,FVG,50-59,922,920,1514,328,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-06,Pfizer/BioNTech,FVG,60-69,456,401,448,409,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-06,Pfizer/BioNTech,FVG,70-79,499,504,289,714,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-06,Pfizer/BioNTech,FVG,80-89,550,808,149,1209,ITH,ITH4,6,Friuli-Venezia Giulia
@@ -1988,7 +1987,7 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-05-06,Vaxzevria (AstraZeneca),FVG,40-49,67,68,3,132,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-06,Vaxzevria (AstraZeneca),FVG,50-59,70,63,13,120,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-06,Vaxzevria (AstraZeneca),FVG,60-69,570,595,1162,3,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-05-06,Vaxzevria (AstraZeneca),FVG,70-79,628,769,1397,0,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-05-06,Vaxzevria (AstraZeneca),FVG,70-79,628,770,1398,0,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-07,Moderna,FVG,12-19,1,0,1,0,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-07,Moderna,FVG,20-29,8,7,15,0,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-07,Moderna,FVG,30-39,9,13,22,0,ITH,ITH4,6,Friuli-Venezia Giulia
@@ -2002,17 +2001,17 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-05-07,Pfizer/BioNTech,FVG,20-29,110,123,150,83,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-07,Pfizer/BioNTech,FVG,30-39,114,148,165,97,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-07,Pfizer/BioNTech,FVG,40-49,239,337,380,196,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-05-07,Pfizer/BioNTech,FVG,50-59,453,588,740,301,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-05-07,Pfizer/BioNTech,FVG,50-59,453,589,740,302,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-07,Pfizer/BioNTech,FVG,60-69,345,362,341,366,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-07,Pfizer/BioNTech,FVG,70-79,534,554,394,694,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-05-07,Pfizer/BioNTech,FVG,80-89,549,821,86,1284,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-05-07,Pfizer/BioNTech,FVG,80-89,550,821,86,1285,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-07,Pfizer/BioNTech,FVG,90+,79,216,54,241,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-07,Vaxzevria (AstraZeneca),FVG,20-29,6,1,2,5,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-07,Vaxzevria (AstraZeneca),FVG,30-39,13,2,3,12,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-07,Vaxzevria (AstraZeneca),FVG,40-49,17,6,11,12,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-07,Vaxzevria (AstraZeneca),FVG,50-59,24,17,21,20,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-07,Vaxzevria (AstraZeneca),FVG,60-69,978,980,1957,1,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-05-07,Vaxzevria (AstraZeneca),FVG,70-79,743,864,1607,0,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-05-07,Vaxzevria (AstraZeneca),FVG,70-79,744,864,1608,0,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-07,Vaxzevria (AstraZeneca),FVG,80-89,0,2,2,0,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-08,Moderna,FVG,12-19,3,0,1,2,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-08,Moderna,FVG,20-29,24,26,18,32,ITH,ITH4,6,Friuli-Venezia Giulia
@@ -2073,21 +2072,20 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-05-10,Moderna,FVG,70-79,25,23,35,13,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-10,Moderna,FVG,80-89,31,75,30,76,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-10,Moderna,FVG,90+,19,86,27,78,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-05-10,Pfizer/BioNTech,FVG,12-19,7,7,12,2,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-05-10,Pfizer/BioNTech,FVG,20-29,68,109,147,30,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-05-10,Pfizer/BioNTech,FVG,30-39,89,126,179,36,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-05-10,Pfizer/BioNTech,FVG,40-49,188,281,413,56,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-05-10,Pfizer/BioNTech,FVG,50-59,405,446,759,92,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-05-10,Pfizer/BioNTech,FVG,60-69,290,302,475,117,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-05-10,Pfizer/BioNTech,FVG,70-79,349,379,437,291,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-05-10,Pfizer/BioNTech,FVG,12-19,7,8,13,2,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-05-10,Pfizer/BioNTech,FVG,20-29,69,111,150,30,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-05-10,Pfizer/BioNTech,FVG,30-39,89,127,180,36,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-05-10,Pfizer/BioNTech,FVG,40-49,189,283,416,56,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-05-10,Pfizer/BioNTech,FVG,50-59,406,446,760,92,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-05-10,Pfizer/BioNTech,FVG,60-69,292,304,479,117,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-05-10,Pfizer/BioNTech,FVG,70-79,351,380,440,291,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-10,Pfizer/BioNTech,FVG,80-89,302,420,142,580,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-10,Pfizer/BioNTech,FVG,90+,44,161,47,158,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-05-10,Vaxzevria (AstraZeneca),FVG,12-19,0,1,1,0,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-05-10,Vaxzevria (AstraZeneca),FVG,20-29,2,2,4,0,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-05-10,Vaxzevria (AstraZeneca),FVG,20-29,1,0,1,0,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-10,Vaxzevria (AstraZeneca),FVG,30-39,2,0,2,0,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-05-10,Vaxzevria (AstraZeneca),FVG,40-49,1,2,3,0,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-05-10,Vaxzevria (AstraZeneca),FVG,50-59,7,8,14,1,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-05-10,Vaxzevria (AstraZeneca),FVG,60-69,845,917,1762,0,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-05-10,Vaxzevria (AstraZeneca),FVG,40-49,0,1,1,0,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-05-10,Vaxzevria (AstraZeneca),FVG,50-59,6,8,13,1,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-05-10,Vaxzevria (AstraZeneca),FVG,60-69,843,916,1759,0,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-10,Vaxzevria (AstraZeneca),FVG,70-79,701,897,1598,0,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-10,Vaxzevria (AstraZeneca),FVG,80-89,0,3,3,0,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-11,Moderna,FVG,12-19,0,1,1,0,ITH,ITH4,6,Friuli-Venezia Giulia
@@ -2101,16 +2099,16 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-05-11,Moderna,FVG,90+,22,75,19,78,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-11,Pfizer/BioNTech,FVG,12-19,7,7,13,1,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-11,Pfizer/BioNTech,FVG,20-29,71,86,136,21,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-05-11,Pfizer/BioNTech,FVG,30-39,87,102,167,22,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-05-11,Pfizer/BioNTech,FVG,40-49,131,191,298,24,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-05-11,Pfizer/BioNTech,FVG,30-39,88,102,168,22,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-05-11,Pfizer/BioNTech,FVG,40-49,131,192,299,24,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-11,Pfizer/BioNTech,FVG,50-59,462,478,862,78,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-05-11,Pfizer/BioNTech,FVG,60-69,266,284,495,55,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-05-11,Pfizer/BioNTech,FVG,60-69,266,285,496,55,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-11,Pfizer/BioNTech,FVG,70-79,186,196,265,117,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-11,Pfizer/BioNTech,FVG,80-89,271,425,109,587,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-11,Pfizer/BioNTech,FVG,90+,47,117,43,121,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-11,Vaxzevria (AstraZeneca),FVG,20-29,80,59,1,138,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-05-11,Vaxzevria (AstraZeneca),FVG,30-39,101,54,3,152,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-05-11,Vaxzevria (AstraZeneca),FVG,40-49,102,64,3,163,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-05-11,Vaxzevria (AstraZeneca),FVG,30-39,100,54,2,152,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-05-11,Vaxzevria (AstraZeneca),FVG,40-49,102,63,2,163,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-11,Vaxzevria (AstraZeneca),FVG,50-59,82,66,13,135,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-11,Vaxzevria (AstraZeneca),FVG,60-69,1465,1450,2913,2,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-11,Vaxzevria (AstraZeneca),FVG,70-79,407,492,899,0,ITH,ITH4,6,Friuli-Venezia Giulia
@@ -2129,17 +2127,17 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-05-12,Pfizer/BioNTech,FVG,20-29,101,113,191,23,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-12,Pfizer/BioNTech,FVG,30-39,118,146,250,14,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-12,Pfizer/BioNTech,FVG,40-49,213,332,506,39,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-05-12,Pfizer/BioNTech,FVG,50-59,805,834,1587,52,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-05-12,Pfizer/BioNTech,FVG,60-69,314,335,613,36,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-05-12,Pfizer/BioNTech,FVG,70-79,310,336,458,188,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-05-12,Pfizer/BioNTech,FVG,50-59,806,834,1588,52,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-05-12,Pfizer/BioNTech,FVG,60-69,315,336,615,36,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-05-12,Pfizer/BioNTech,FVG,70-79,311,336,459,188,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-12,Pfizer/BioNTech,FVG,80-89,156,275,108,323,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-12,Pfizer/BioNTech,FVG,90+,36,121,42,115,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-12,Vaxzevria (AstraZeneca),FVG,20-29,67,68,1,134,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-12,Vaxzevria (AstraZeneca),FVG,30-39,73,55,1,127,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-12,Vaxzevria (AstraZeneca),FVG,40-49,72,55,5,122,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-12,Vaxzevria (AstraZeneca),FVG,50-59,55,50,15,90,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-05-12,Vaxzevria (AstraZeneca),FVG,60-69,1349,1358,2704,3,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-05-12,Vaxzevria (AstraZeneca),FVG,70-79,719,941,1659,1,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-05-12,Vaxzevria (AstraZeneca),FVG,60-69,1349,1357,2703,3,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-05-12,Vaxzevria (AstraZeneca),FVG,70-79,718,941,1658,1,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-12,Vaxzevria (AstraZeneca),FVG,80-89,1,0,1,0,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-12,Vaxzevria (AstraZeneca),FVG,90+,0,1,1,0,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-13,Moderna,FVG,12-19,1,0,1,0,ITH,ITH4,6,Friuli-Venezia Giulia
@@ -2154,10 +2152,10 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-05-13,Pfizer/BioNTech,FVG,12-19,4,14,18,0,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-13,Pfizer/BioNTech,FVG,20-29,88,111,189,10,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-13,Pfizer/BioNTech,FVG,30-39,103,138,233,8,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-05-13,Pfizer/BioNTech,FVG,40-49,232,292,514,10,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-05-13,Pfizer/BioNTech,FVG,50-59,1167,1127,2265,29,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-05-13,Pfizer/BioNTech,FVG,60-69,350,346,666,30,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-05-13,Pfizer/BioNTech,FVG,70-79,221,265,371,115,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-05-13,Pfizer/BioNTech,FVG,40-49,233,292,515,10,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-05-13,Pfizer/BioNTech,FVG,50-59,1168,1128,2267,29,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-05-13,Pfizer/BioNTech,FVG,60-69,352,349,671,30,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-05-13,Pfizer/BioNTech,FVG,70-79,222,268,375,115,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-13,Pfizer/BioNTech,FVG,80-89,214,356,114,456,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-13,Pfizer/BioNTech,FVG,90+,46,117,48,115,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-13,Vaxzevria (AstraZeneca),FVG,20-29,159,76,2,233,ITH,ITH4,6,Friuli-Venezia Giulia
@@ -2165,7 +2163,7 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-05-13,Vaxzevria (AstraZeneca),FVG,40-49,160,67,4,223,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-13,Vaxzevria (AstraZeneca),FVG,50-59,138,65,8,195,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-13,Vaxzevria (AstraZeneca),FVG,60-69,1227,1323,2542,8,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-05-13,Vaxzevria (AstraZeneca),FVG,70-79,500,619,1117,2,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-05-13,Vaxzevria (AstraZeneca),FVG,70-79,499,619,1116,2,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-13,Vaxzevria (AstraZeneca),FVG,80-89,0,1,1,0,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-14,Moderna,FVG,12-19,1,0,1,0,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-14,Moderna,FVG,20-29,17,20,27,10,ITH,ITH4,6,Friuli-Venezia Giulia
@@ -2178,18 +2176,18 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-05-14,Moderna,FVG,90+,25,123,18,130,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-14,Pfizer/BioNTech,FVG,12-19,7,16,15,8,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-14,Pfizer/BioNTech,FVG,20-29,84,105,147,42,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-05-14,Pfizer/BioNTech,FVG,30-39,99,99,149,49,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-05-14,Pfizer/BioNTech,FVG,40-49,169,254,333,90,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-05-14,Pfizer/BioNTech,FVG,50-59,796,765,1423,138,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-05-14,Pfizer/BioNTech,FVG,60-69,281,317,438,160,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-05-14,Pfizer/BioNTech,FVG,30-39,100,99,150,49,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-05-14,Pfizer/BioNTech,FVG,40-49,170,254,333,91,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-05-14,Pfizer/BioNTech,FVG,50-59,797,765,1424,138,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-05-14,Pfizer/BioNTech,FVG,60-69,281,318,439,160,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-14,Pfizer/BioNTech,FVG,70-79,308,337,323,322,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-14,Pfizer/BioNTech,FVG,80-89,205,313,93,425,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-14,Pfizer/BioNTech,FVG,90+,28,105,28,105,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-14,Vaxzevria (AstraZeneca),FVG,20-29,51,13,1,63,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-05-14,Vaxzevria (AstraZeneca),FVG,30-39,110,11,2,119,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-05-14,Vaxzevria (AstraZeneca),FVG,30-39,109,11,1,119,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-14,Vaxzevria (AstraZeneca),FVG,40-49,230,18,4,244,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-14,Vaxzevria (AstraZeneca),FVG,50-59,238,44,6,276,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-05-14,Vaxzevria (AstraZeneca),FVG,60-69,1405,1370,2759,16,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-05-14,Vaxzevria (AstraZeneca),FVG,60-69,1405,1369,2758,16,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-14,Vaxzevria (AstraZeneca),FVG,70-79,577,708,1284,1,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-15,Moderna,FVG,12-19,2,2,3,1,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-15,Moderna,FVG,20-29,14,14,28,0,ITH,ITH4,6,Friuli-Venezia Giulia
@@ -2219,7 +2217,7 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-05-16,Moderna,FVG,20-29,1,5,6,0,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-16,Moderna,FVG,30-39,5,6,11,0,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-16,Moderna,FVG,40-49,6,14,20,0,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-05-16,Moderna,FVG,50-59,309,293,602,0,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-05-16,Moderna,FVG,50-59,309,294,603,0,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-16,Moderna,FVG,60-69,32,29,61,0,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-16,Moderna,FVG,70-79,10,11,19,2,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-16,Moderna,FVG,80-89,3,6,4,5,ITH,ITH4,6,Friuli-Venezia Giulia
@@ -2342,12 +2340,12 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-05-20,Vaxzevria (AstraZeneca),FVG,60-69,338,416,579,175,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-20,Vaxzevria (AstraZeneca),FVG,70-79,98,95,190,3,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-21,Moderna,FVG,12-19,0,1,1,0,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-05-21,Moderna,FVG,20-29,14,10,24,0,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-05-21,Moderna,FVG,20-29,15,10,25,0,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-21,Moderna,FVG,30-39,8,13,21,0,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-21,Moderna,FVG,40-49,277,243,514,6,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-05-21,Moderna,FVG,50-59,263,220,479,4,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-05-21,Moderna,FVG,60-69,35,46,69,12,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-05-21,Moderna,FVG,70-79,39,36,34,41,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-05-21,Moderna,FVG,50-59,264,220,480,4,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-05-21,Moderna,FVG,60-69,37,47,72,12,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-05-21,Moderna,FVG,70-79,39,37,35,41,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-21,Moderna,FVG,80-89,90,214,38,266,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-21,Moderna,FVG,90+,30,86,16,100,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-21,Pfizer/BioNTech,FVG,12-19,20,31,41,10,ITH,ITH4,6,Friuli-Venezia Giulia
@@ -2414,7 +2412,7 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-05-24,Moderna,FVG,12-19,2,0,2,0,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-24,Moderna,FVG,20-29,7,10,16,1,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-24,Moderna,FVG,30-39,17,15,29,3,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-05-24,Moderna,FVG,40-49,77,76,148,5,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-05-24,Moderna,FVG,40-49,77,77,149,5,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-24,Moderna,FVG,50-59,181,142,321,2,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-24,Moderna,FVG,60-69,34,28,58,4,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-24,Moderna,FVG,70-79,23,25,25,23,ITH,ITH4,6,Friuli-Venezia Giulia
@@ -2449,7 +2447,7 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-05-25,Pfizer/BioNTech,FVG,40-49,901,750,1318,333,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-25,Pfizer/BioNTech,FVG,50-59,1587,1503,2304,786,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-25,Pfizer/BioNTech,FVG,60-69,648,703,948,403,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-05-25,Pfizer/BioNTech,FVG,70-79,391,455,442,404,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-05-25,Pfizer/BioNTech,FVG,70-79,391,456,443,404,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-25,Pfizer/BioNTech,FVG,80-89,142,209,67,284,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-25,Pfizer/BioNTech,FVG,90+,23,98,28,93,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-25,Vaxzevria (AstraZeneca),FVG,20-29,53,23,0,76,ITH,ITH4,6,Friuli-Venezia Giulia
@@ -2467,12 +2465,12 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-05-26,Moderna,FVG,70-79,104,120,198,26,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-26,Moderna,FVG,80-89,46,89,52,83,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-26,Moderna,FVG,90+,15,82,15,82,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-05-26,Pfizer/BioNTech,FVG,12-19,30,34,48,16,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-05-26,Pfizer/BioNTech,FVG,20-29,156,153,152,157,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-05-26,Pfizer/BioNTech,FVG,30-39,167,192,176,183,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-05-26,Pfizer/BioNTech,FVG,40-49,835,761,1253,343,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-05-26,Pfizer/BioNTech,FVG,50-59,1528,1368,2139,757,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-05-26,Pfizer/BioNTech,FVG,60-69,469,500,596,373,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-05-26,Pfizer/BioNTech,FVG,12-19,30,39,53,16,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-05-26,Pfizer/BioNTech,FVG,20-29,157,159,159,157,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-05-26,Pfizer/BioNTech,FVG,30-39,169,195,181,183,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-05-26,Pfizer/BioNTech,FVG,40-49,874,791,1322,343,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-05-26,Pfizer/BioNTech,FVG,50-59,1543,1379,2165,757,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-05-26,Pfizer/BioNTech,FVG,60-69,471,500,598,373,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-26,Pfizer/BioNTech,FVG,70-79,274,349,193,430,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-26,Pfizer/BioNTech,FVG,80-89,74,155,53,176,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-26,Pfizer/BioNTech,FVG,90+,28,59,19,68,ITH,ITH4,6,Friuli-Venezia Giulia
@@ -2491,12 +2489,12 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-05-27,Moderna,FVG,70-79,28,35,36,27,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-27,Moderna,FVG,80-89,83,175,36,222,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-27,Moderna,FVG,90+,31,83,38,76,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-05-27,Pfizer/BioNTech,FVG,12-19,26,38,30,34,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-05-27,Pfizer/BioNTech,FVG,20-29,152,178,119,211,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-05-27,Pfizer/BioNTech,FVG,30-39,210,213,150,273,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-05-27,Pfizer/BioNTech,FVG,40-49,1613,1461,2507,567,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-05-27,Pfizer/BioNTech,FVG,50-59,1145,1092,1064,1173,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-05-27,Pfizer/BioNTech,FVG,60-69,736,757,1062,431,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-05-27,Pfizer/BioNTech,FVG,12-19,28,43,37,34,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-05-27,Pfizer/BioNTech,FVG,20-29,158,181,128,211,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-05-27,Pfizer/BioNTech,FVG,30-39,210,215,152,273,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-05-27,Pfizer/BioNTech,FVG,40-49,1636,1482,2551,567,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-05-27,Pfizer/BioNTech,FVG,50-59,1150,1109,1086,1173,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-05-27,Pfizer/BioNTech,FVG,60-69,737,760,1066,431,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-27,Pfizer/BioNTech,FVG,70-79,356,392,324,424,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-27,Pfizer/BioNTech,FVG,80-89,95,158,51,202,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-27,Pfizer/BioNTech,FVG,90+,19,87,14,92,ITH,ITH4,6,Friuli-Venezia Giulia
@@ -2565,7 +2563,7 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-05-30,Moderna,FVG,80-89,4,8,5,7,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-30,Moderna,FVG,90+,0,4,1,3,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-30,Pfizer/BioNTech,FVG,12-19,47,72,91,28,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-05-30,Pfizer/BioNTech,FVG,20-29,151,200,204,147,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-05-30,Pfizer/BioNTech,FVG,20-29,151,201,205,147,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-30,Pfizer/BioNTech,FVG,30-39,180,219,207,192,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-30,Pfizer/BioNTech,FVG,40-49,956,1028,1562,422,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-30,Pfizer/BioNTech,FVG,50-59,1661,1676,2536,801,ITH,ITH4,6,Friuli-Venezia Giulia
@@ -2625,8 +2623,8 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-06-01,Vaxzevria (AstraZeneca),FVG,20-29,21,31,0,52,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-06-01,Vaxzevria (AstraZeneca),FVG,30-39,50,89,0,139,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-06-01,Vaxzevria (AstraZeneca),FVG,40-49,64,112,0,176,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-06-01,Vaxzevria (AstraZeneca),FVG,50-59,91,168,0,259,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-06-01,Vaxzevria (AstraZeneca),FVG,60-69,124,149,141,132,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-06-01,Vaxzevria (AstraZeneca),FVG,50-59,92,168,0,260,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-06-01,Vaxzevria (AstraZeneca),FVG,60-69,125,149,141,133,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-06-01,Vaxzevria (AstraZeneca),FVG,70-79,37,36,64,9,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-06-01,Vaxzevria (AstraZeneca),FVG,80-89,0,1,1,0,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-06-02,Moderna,FVG,12-19,1,9,10,0,ITH,ITH4,6,Friuli-Venezia Giulia
@@ -2647,6 +2645,7 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-06-02,Pfizer/BioNTech,FVG,70-79,85,115,164,36,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-06-02,Pfizer/BioNTech,FVG,80-89,16,25,38,3,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-06-02,Pfizer/BioNTech,FVG,90+,0,6,5,1,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-06-02,Vaxzevria (AstraZeneca),FVG,70-79,0,1,0,1,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-06-03,Moderna,FVG,12-19,6,7,7,6,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-06-03,Moderna,FVG,20-29,127,70,172,25,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-06-03,Moderna,FVG,30-39,213,106,276,43,ITH,ITH4,6,Friuli-Venezia Giulia
@@ -2659,16 +2658,16 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-06-03,Pfizer/BioNTech,FVG,12-19,37,68,104,1,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-06-03,Pfizer/BioNTech,FVG,20-29,190,165,348,7,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-06-03,Pfizer/BioNTech,FVG,30-39,236,200,431,5,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-06-03,Pfizer/BioNTech,FVG,40-49,2030,1707,3727,10,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-06-03,Pfizer/BioNTech,FVG,40-49,2033,1708,3731,10,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-06-03,Pfizer/BioNTech,FVG,50-59,1275,1115,2363,27,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-06-03,Pfizer/BioNTech,FVG,60-69,307,333,620,20,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-06-03,Pfizer/BioNTech,FVG,70-79,119,138,229,28,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-06-03,Pfizer/BioNTech,FVG,80-89,34,46,57,23,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-06-03,Pfizer/BioNTech,FVG,90+,4,23,12,15,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-06-03,Pfizer/BioNTech,FVG,90+,4,24,12,16,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-06-03,Vaxzevria (AstraZeneca),FVG,20-29,56,36,0,92,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-06-03,Vaxzevria (AstraZeneca),FVG,30-39,116,57,1,172,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-06-03,Vaxzevria (AstraZeneca),FVG,40-49,222,96,0,318,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-06-03,Vaxzevria (AstraZeneca),FVG,50-59,344,156,4,496,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-06-03,Vaxzevria (AstraZeneca),FVG,50-59,345,156,4,497,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-06-03,Vaxzevria (AstraZeneca),FVG,60-69,206,197,312,91,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-06-03,Vaxzevria (AstraZeneca),FVG,70-79,48,55,76,27,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-06-04,Moderna,FVG,12-19,10,9,19,0,ITH,ITH4,6,Friuli-Venezia Giulia
@@ -2690,7 +2689,7 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-06-04,Pfizer/BioNTech,FVG,80-89,46,93,106,33,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-06-04,Pfizer/BioNTech,FVG,90+,6,29,22,13,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-06-04,Vaxzevria (AstraZeneca),FVG,20-29,30,39,0,69,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-06-04,Vaxzevria (AstraZeneca),FVG,30-39,41,63,0,104,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-06-04,Vaxzevria (AstraZeneca),FVG,30-39,42,63,0,105,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-06-04,Vaxzevria (AstraZeneca),FVG,40-49,50,85,0,135,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-06-04,Vaxzevria (AstraZeneca),FVG,50-59,50,159,1,208,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-06-04,Vaxzevria (AstraZeneca),FVG,60-69,60,85,1,144,ITH,ITH4,6,Friuli-Venezia Giulia
@@ -2698,20 +2697,20 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-06-05,Moderna,FVG,12-19,12,8,18,2,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-06-05,Moderna,FVG,20-29,64,37,87,14,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-06-05,Moderna,FVG,30-39,74,50,111,13,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-06-05,Moderna,FVG,40-49,141,122,234,29,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-06-05,Moderna,FVG,40-49,142,122,234,30,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-06-05,Moderna,FVG,50-59,176,177,240,113,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-06-05,Moderna,FVG,60-69,72,79,71,80,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-06-05,Moderna,FVG,70-79,34,50,32,52,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-06-05,Moderna,FVG,60-69,73,80,71,82,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-06-05,Moderna,FVG,70-79,34,51,32,53,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-06-05,Moderna,FVG,80-89,20,33,10,43,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-06-05,Moderna,FVG,90+,4,10,6,8,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-06-05,Pfizer/BioNTech,FVG,12-19,114,134,241,7,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-06-05,Pfizer/BioNTech,FVG,20-29,460,401,829,32,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-06-05,Pfizer/BioNTech,FVG,30-39,477,361,783,55,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-06-05,Pfizer/BioNTech,FVG,40-49,1845,1625,3313,157,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-06-05,Pfizer/BioNTech,FVG,20-29,464,406,838,32,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-06-05,Pfizer/BioNTech,FVG,30-39,479,362,786,55,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-06-05,Pfizer/BioNTech,FVG,40-49,1847,1626,3316,157,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-06-05,Pfizer/BioNTech,FVG,50-59,1116,953,1692,377,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-06-05,Pfizer/BioNTech,FVG,60-69,159,153,190,122,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-06-05,Pfizer/BioNTech,FVG,70-79,42,63,74,31,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-06-05,Pfizer/BioNTech,FVG,80-89,24,54,48,30,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-06-05,Pfizer/BioNTech,FVG,80-89,24,55,49,30,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-06-05,Pfizer/BioNTech,FVG,90+,5,17,10,12,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-06-05,Vaxzevria (AstraZeneca),FVG,20-29,12,24,0,36,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-06-05,Vaxzevria (AstraZeneca),FVG,30-39,15,43,0,58,ITH,ITH4,6,Friuli-Venezia Giulia
@@ -2730,7 +2729,7 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-06-06,Moderna,FVG,90+,0,1,0,1,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-06-06,Pfizer/BioNTech,FVG,12-19,80,124,203,1,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-06-06,Pfizer/BioNTech,FVG,20-29,383,320,701,2,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-06-06,Pfizer/BioNTech,FVG,30-39,327,281,606,2,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-06-06,Pfizer/BioNTech,FVG,30-39,329,282,609,2,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-06-06,Pfizer/BioNTech,FVG,40-49,1383,1227,2609,1,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-06-06,Pfizer/BioNTech,FVG,50-59,893,800,1685,8,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-06-06,Pfizer/BioNTech,FVG,60-69,288,330,612,6,ITH,ITH4,6,Friuli-Venezia Giulia
@@ -2755,8 +2754,8 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-06-07,Pfizer/BioNTech,FVG,12-19,143,147,289,1,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-06-07,Pfizer/BioNTech,FVG,20-29,423,401,818,6,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-06-07,Pfizer/BioNTech,FVG,30-39,504,422,918,8,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-06-07,Pfizer/BioNTech,FVG,40-49,1457,1287,2725,19,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-06-07,Pfizer/BioNTech,FVG,50-59,698,598,1262,34,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-06-07,Pfizer/BioNTech,FVG,40-49,1457,1288,2726,19,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-06-07,Pfizer/BioNTech,FVG,50-59,698,599,1263,34,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-06-07,Pfizer/BioNTech,FVG,60-69,232,234,451,15,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-06-07,Pfizer/BioNTech,FVG,70-79,99,116,197,18,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-06-07,Pfizer/BioNTech,FVG,80-89,22,46,50,18,ITH,ITH4,6,Friuli-Venezia Giulia
@@ -2794,16 +2793,16 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-06-09,Moderna,FVG,12-19,14,24,36,2,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-06-09,Moderna,FVG,20-29,157,117,265,9,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-06-09,Moderna,FVG,30-39,186,130,300,16,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-06-09,Moderna,FVG,40-49,47,39,61,25,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-06-09,Moderna,FVG,50-59,58,71,49,80,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-06-09,Moderna,FVG,60-69,121,130,150,101,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-06-09,Moderna,FVG,70-79,65,66,73,58,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-06-09,Moderna,FVG,80-89,11,34,10,35,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-06-09,Moderna,FVG,40-49,47,42,61,28,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-06-09,Moderna,FVG,50-59,58,73,49,82,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-06-09,Moderna,FVG,60-69,122,132,150,104,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-06-09,Moderna,FVG,70-79,66,66,74,58,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-06-09,Moderna,FVG,80-89,11,35,10,36,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-06-09,Moderna,FVG,90+,7,25,3,29,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-06-09,Pfizer/BioNTech,FVG,12-19,261,301,561,1,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-06-09,Pfizer/BioNTech,FVG,20-29,875,859,1729,5,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-06-09,Pfizer/BioNTech,FVG,30-39,969,756,1721,4,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-06-09,Pfizer/BioNTech,FVG,40-49,1184,1054,2225,13,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-06-09,Pfizer/BioNTech,FVG,40-49,1185,1054,2226,13,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-06-09,Pfizer/BioNTech,FVG,50-59,704,615,1296,23,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-06-09,Pfizer/BioNTech,FVG,60-69,182,195,371,6,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-06-09,Pfizer/BioNTech,FVG,70-79,70,122,183,9,ITH,ITH4,6,Friuli-Venezia Giulia
@@ -2820,19 +2819,19 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-06-10,Moderna,FVG,20-29,129,74,200,3,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-06-10,Moderna,FVG,30-39,156,66,221,1,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-06-10,Moderna,FVG,40-49,49,62,93,18,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-06-10,Moderna,FVG,50-59,58,41,61,38,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-06-10,Moderna,FVG,60-69,65,60,81,44,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-06-10,Moderna,FVG,70-79,38,37,52,23,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-06-10,Moderna,FVG,50-59,59,42,61,40,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-06-10,Moderna,FVG,60-69,66,62,82,46,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-06-10,Moderna,FVG,70-79,38,38,53,23,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-06-10,Moderna,FVG,80-89,3,13,12,4,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-06-10,Moderna,FVG,90+,5,11,6,10,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-06-10,Pfizer/BioNTech,FVG,12-19,291,325,616,0,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-06-10,Pfizer/BioNTech,FVG,12-19,292,325,617,0,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-06-10,Pfizer/BioNTech,FVG,20-29,955,885,1837,3,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-06-10,Pfizer/BioNTech,FVG,30-39,889,705,1592,2,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-06-10,Pfizer/BioNTech,FVG,40-49,722,617,1328,11,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-06-10,Pfizer/BioNTech,FVG,50-59,418,417,816,19,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-06-10,Pfizer/BioNTech,FVG,60-69,252,294,534,12,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-06-10,Pfizer/BioNTech,FVG,70-79,127,151,273,5,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-06-10,Pfizer/BioNTech,FVG,80-89,24,29,41,12,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-06-10,Pfizer/BioNTech,FVG,80-89,25,29,41,13,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-06-10,Pfizer/BioNTech,FVG,90+,2,8,8,2,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-06-10,Vaxzevria (AstraZeneca),FVG,12-19,1,0,0,1,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-06-10,Vaxzevria (AstraZeneca),FVG,20-29,36,26,0,62,ITH,ITH4,6,Friuli-Venezia Giulia
@@ -2845,20 +2844,20 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-06-11,Moderna,FVG,20-29,137,97,228,6,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-06-11,Moderna,FVG,30-39,197,117,306,8,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-06-11,Moderna,FVG,40-49,95,29,99,25,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-06-11,Moderna,FVG,50-59,64,39,62,41,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-06-11,Moderna,FVG,60-69,53,43,48,48,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-06-11,Moderna,FVG,70-79,16,34,31,19,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-06-11,Moderna,FVG,80-89,4,14,8,10,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-06-11,Moderna,FVG,90+,5,8,4,9,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-06-11,Pfizer/BioNTech,FVG,12-19,294,306,599,1,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-06-11,Pfizer/BioNTech,FVG,20-29,1050,859,1907,2,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-06-11,Pfizer/BioNTech,FVG,30-39,929,748,1675,2,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-06-11,Pfizer/BioNTech,FVG,40-49,647,521,1162,6,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-06-11,Pfizer/BioNTech,FVG,50-59,361,336,676,21,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-06-11,Pfizer/BioNTech,FVG,60-69,138,131,258,11,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-06-11,Pfizer/BioNTech,FVG,70-79,60,93,146,7,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-06-11,Pfizer/BioNTech,FVG,80-89,18,29,39,8,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-06-11,Pfizer/BioNTech,FVG,90+,3,9,10,2,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-06-11,Moderna,FVG,50-59,65,39,62,42,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-06-11,Moderna,FVG,60-69,53,44,48,49,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-06-11,Moderna,FVG,70-79,17,35,31,21,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-06-11,Moderna,FVG,80-89,4,15,8,11,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-06-11,Moderna,FVG,90+,6,9,4,11,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-06-11,Pfizer/BioNTech,FVG,12-19,296,308,603,1,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-06-11,Pfizer/BioNTech,FVG,20-29,1054,860,1912,2,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-06-11,Pfizer/BioNTech,FVG,30-39,932,751,1681,2,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-06-11,Pfizer/BioNTech,FVG,40-49,662,540,1196,6,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-06-11,Pfizer/BioNTech,FVG,50-59,378,351,708,21,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-06-11,Pfizer/BioNTech,FVG,60-69,139,132,260,11,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-06-11,Pfizer/BioNTech,FVG,70-79,61,96,150,7,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-06-11,Pfizer/BioNTech,FVG,80-89,18,30,40,8,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-06-11,Pfizer/BioNTech,FVG,90+,3,10,11,2,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-06-11,Vaxzevria (AstraZeneca),FVG,12-19,1,0,0,1,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-06-11,Vaxzevria (AstraZeneca),FVG,20-29,24,9,0,33,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-06-11,Vaxzevria (AstraZeneca),FVG,30-39,62,27,0,89,ITH,ITH4,6,Friuli-Venezia Giulia
@@ -2867,19 +2866,19 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-06-11,Vaxzevria (AstraZeneca),FVG,60-69,21,35,1,55,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-06-11,Vaxzevria (AstraZeneca),FVG,70-79,10,2,0,12,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-06-12,Moderna,FVG,12-19,10,10,19,1,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-06-12,Moderna,FVG,20-29,62,45,106,1,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-06-12,Moderna,FVG,30-39,68,43,105,6,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-06-12,Moderna,FVG,40-49,23,28,43,8,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-06-12,Moderna,FVG,50-59,35,25,30,30,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-06-12,Moderna,FVG,60-69,34,42,38,38,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-06-12,Moderna,FVG,20-29,65,47,111,1,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-06-12,Moderna,FVG,30-39,68,46,108,6,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-06-12,Moderna,FVG,40-49,23,29,44,8,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-06-12,Moderna,FVG,50-59,38,25,32,31,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-06-12,Moderna,FVG,60-69,34,43,38,39,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-06-12,Moderna,FVG,70-79,21,28,26,23,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-06-12,Moderna,FVG,80-89,3,9,1,11,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-06-12,Moderna,FVG,90+,3,5,0,8,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-06-12,Pfizer/BioNTech,FVG,12-19,173,178,345,6,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-06-12,Pfizer/BioNTech,FVG,20-29,687,516,1070,133,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-06-12,Pfizer/BioNTech,FVG,30-39,557,402,866,93,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-06-12,Pfizer/BioNTech,FVG,40-49,855,688,1398,145,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-06-12,Pfizer/BioNTech,FVG,50-59,522,329,676,175,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-06-12,Pfizer/BioNTech,FVG,12-19,174,180,348,6,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-06-12,Pfizer/BioNTech,FVG,20-29,700,528,1095,133,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-06-12,Pfizer/BioNTech,FVG,30-39,570,415,892,93,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-06-12,Pfizer/BioNTech,FVG,40-49,856,688,1398,146,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-06-12,Pfizer/BioNTech,FVG,50-59,523,331,679,175,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-06-12,Pfizer/BioNTech,FVG,60-69,80,63,110,33,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-06-12,Pfizer/BioNTech,FVG,70-79,19,31,42,8,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-06-12,Pfizer/BioNTech,FVG,80-89,10,14,23,1,ITH,ITH4,6,Friuli-Venezia Giulia
@@ -2889,41 +2888,47 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-06-13,Moderna,FVG,12-19,8,7,15,0,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-06-13,Moderna,FVG,20-29,86,75,160,1,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-06-13,Moderna,FVG,30-39,83,79,161,1,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-06-13,Moderna,FVG,40-49,20,12,23,9,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-06-13,Moderna,FVG,50-59,17,9,14,12,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-06-13,Moderna,FVG,40-49,21,12,23,10,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-06-13,Moderna,FVG,50-59,17,10,14,13,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-06-13,Moderna,FVG,60-69,16,20,3,33,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-06-13,Moderna,FVG,70-79,15,11,2,24,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-06-13,Moderna,FVG,80-89,1,1,0,2,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-06-13,Moderna,FVG,90+,1,1,0,2,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-06-13,Pfizer/BioNTech,FVG,12-19,206,212,407,11,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-06-13,Pfizer/BioNTech,FVG,20-29,806,627,1261,172,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-06-13,Pfizer/BioNTech,FVG,30-39,675,553,1021,207,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-06-13,Pfizer/BioNTech,FVG,40-49,424,401,495,330,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-06-13,Pfizer/BioNTech,FVG,50-59,419,452,328,543,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-06-13,Pfizer/BioNTech,FVG,60-69,158,146,130,174,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-06-13,Pfizer/BioNTech,FVG,70-79,43,52,37,58,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-06-13,Pfizer/BioNTech,FVG,80-89,16,10,21,5,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-06-13,Pfizer/BioNTech,FVG,12-19,206,213,408,11,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-06-13,Pfizer/BioNTech,FVG,20-29,813,629,1270,172,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-06-13,Pfizer/BioNTech,FVG,30-39,679,555,1027,207,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-06-13,Pfizer/BioNTech,FVG,40-49,425,403,498,330,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-06-13,Pfizer/BioNTech,FVG,50-59,421,453,331,543,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-06-13,Pfizer/BioNTech,FVG,60-69,160,147,133,174,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-06-13,Pfizer/BioNTech,FVG,70-79,43,53,38,58,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-06-13,Pfizer/BioNTech,FVG,80-89,16,11,22,5,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-06-13,Pfizer/BioNTech,FVG,90+,1,3,3,1,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-06-13,Vaxzevria (AstraZeneca),FVG,40-49,1,0,0,1,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-06-13,Vaxzevria (AstraZeneca),FVG,50-59,1,0,0,1,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-06-13,Vaxzevria (AstraZeneca),FVG,60-69,180,123,0,303,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-06-13,Vaxzevria (AstraZeneca),FVG,70-79,631,710,1,1340,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-06-14,Moderna,FVG,20-29,2,0,0,2,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-06-14,Moderna,FVG,30-39,2,1,0,3,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-06-14,Moderna,FVG,40-49,3,7,0,10,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-06-14,Moderna,FVG,50-59,9,10,0,19,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-06-14,Moderna,FVG,60-69,3,0,0,3,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-06-14,Moderna,FVG,70-79,0,2,0,2,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-06-14,Moderna,FVG,80-89,0,1,1,0,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-06-14,Pfizer/BioNTech,FVG,12-19,18,23,36,5,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-06-14,Pfizer/BioNTech,FVG,20-29,84,99,133,50,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-06-14,Pfizer/BioNTech,FVG,30-39,115,117,156,76,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-06-14,Pfizer/BioNTech,FVG,40-49,146,155,122,179,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-06-14,Pfizer/BioNTech,FVG,50-59,145,160,60,245,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-06-14,Pfizer/BioNTech,FVG,60-69,108,116,30,194,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-06-14,Pfizer/BioNTech,FVG,70-79,84,109,18,175,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-06-14,Pfizer/BioNTech,FVG,80-89,30,43,3,70,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-06-14,Pfizer/BioNTech,FVG,90+,0,16,0,16,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-06-14,Moderna,FVG,12-19,0,1,0,1,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-06-14,Moderna,FVG,20-29,5,7,5,7,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-06-14,Moderna,FVG,30-39,16,12,17,11,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-06-14,Moderna,FVG,40-49,20,22,3,39,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-06-14,Moderna,FVG,50-59,54,61,6,109,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-06-14,Moderna,FVG,60-69,69,75,2,142,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-06-14,Moderna,FVG,70-79,48,45,4,89,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-06-14,Moderna,FVG,80-89,3,11,2,12,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-06-14,Moderna,FVG,90+,3,9,0,12,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-06-14,Pfizer/BioNTech,FVG,12-19,200,190,369,21,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-06-14,Pfizer/BioNTech,FVG,20-29,727,712,1196,243,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-06-14,Pfizer/BioNTech,FVG,30-39,754,707,1121,340,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-06-14,Pfizer/BioNTech,FVG,40-49,514,617,501,630,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-06-14,Pfizer/BioNTech,FVG,50-59,634,785,308,1111,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-06-14,Pfizer/BioNTech,FVG,60-69,327,402,128,601,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-06-14,Pfizer/BioNTech,FVG,70-79,202,238,51,389,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-06-14,Pfizer/BioNTech,FVG,80-89,52,91,21,122,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-06-14,Pfizer/BioNTech,FVG,90+,7,24,7,24,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-06-14,Vaxzevria (AstraZeneca),FVG,40-49,1,1,0,2,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-06-14,Vaxzevria (AstraZeneca),FVG,50-59,0,1,0,1,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-06-14,Vaxzevria (AstraZeneca),FVG,60-69,81,112,1,192,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-06-14,Vaxzevria (AstraZeneca),FVG,70-79,37,42,0,79,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-04-29,Janssen,FVG,60-69,5,2,0,7,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-04-29,Janssen,FVG,70-79,5,4,0,9,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-04-30,Janssen,FVG,20-29,1,0,0,1,ITH,ITH4,6,Friuli-Venezia Giulia
@@ -2938,7 +2943,7 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-05-02,Janssen,FVG,60-69,142,162,0,304,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-02,Janssen,FVG,70-79,24,23,0,47,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-04,Janssen,FVG,30-39,1,0,0,1,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-05-04,Janssen,FVG,60-69,16,8,0,24,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-05-04,Janssen,FVG,60-69,17,9,0,26,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-04,Janssen,FVG,70-79,6,2,0,8,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-05,Janssen,FVG,60-69,242,259,0,501,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-05,Janssen,FVG,70-79,52,48,0,100,ITH,ITH4,6,Friuli-Venezia Giulia
@@ -3049,8 +3054,8 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-05-28,Janssen,FVG,30-39,5,5,0,10,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-28,Janssen,FVG,40-49,7,0,0,7,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-28,Janssen,FVG,50-59,3,1,0,4,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-05-28,Janssen,FVG,60-69,50,58,0,108,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-05-28,Janssen,FVG,70-79,25,25,0,50,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-05-28,Janssen,FVG,60-69,51,59,0,110,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-05-28,Janssen,FVG,70-79,26,25,0,51,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-28,Janssen,FVG,80-89,0,2,0,2,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-29,Janssen,FVG,50-59,2,1,0,3,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-05-29,Janssen,FVG,60-69,35,20,0,55,ITH,ITH4,6,Friuli-Venezia Giulia
@@ -3107,7 +3112,7 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-06-07,Janssen,FVG,40-49,5,1,0,6,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-06-07,Janssen,FVG,50-59,4,5,0,9,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-06-07,Janssen,FVG,60-69,249,252,0,501,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-06-07,Janssen,FVG,70-79,66,108,0,174,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-06-07,Janssen,FVG,70-79,67,108,0,175,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-06-08,Janssen,FVG,20-29,4,1,0,5,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-06-08,Janssen,FVG,30-39,3,2,0,5,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-06-08,Janssen,FVG,40-49,2,3,0,5,ITH,ITH4,6,Friuli-Venezia Giulia
@@ -3136,11 +3141,12 @@ data_somministrazione,fornitore,area,fascia_anagrafica,sesso_maschile,sesso_femm
 2021-06-11,Janssen,FVG,30-39,6,6,0,12,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-06-11,Janssen,FVG,40-49,11,0,0,11,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-06-11,Janssen,FVG,50-59,3,1,0,4,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-06-11,Janssen,FVG,60-69,66,58,0,124,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-06-11,Janssen,FVG,60-69,65,59,0,124,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-06-11,Janssen,FVG,70-79,28,30,0,58,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-06-12,Janssen,FVG,50-59,1,0,0,1,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-06-12,Janssen,FVG,60-69,32,27,0,59,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-06-12,Janssen,FVG,70-79,9,6,0,15,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-06-13,Janssen,FVG,60-69,48,61,0,109,ITH,ITH4,6,Friuli-Venezia Giulia
 2021-06-13,Janssen,FVG,70-79,29,30,0,59,ITH,ITH4,6,Friuli-Venezia Giulia
-2021-06-14,Janssen,FVG,60-69,1,1,0,2,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-06-14,Janssen,FVG,60-69,34,30,0,64,ITH,ITH4,6,Friuli-Venezia Giulia
+2021-06-14,Janssen,FVG,70-79,16,24,0,40,ITH,ITH4,6,Friuli-Venezia Giulia
