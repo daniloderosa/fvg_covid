@@ -1,6 +1,4 @@
 data,nuovi_positivi,nuovi_positivi_media_mobile,deceduti_giornalieri,terapia_intensiva,ingressi_terapia_intensiva,Tasso_positivi,tasso_positivi_molecolare,tasso_positivi_rapido
-2021-05-20,41,42,2,11,0,0.78,1.02,0.29
-2021-05-21,38,42,2,12,1,0.56,0.61,0.43
 2021-05-22,39,38,0,10,0,0.63,0.87,0.22
 2021-05-23,31,38,1,9,2,0.77,0.99,0.31
 2021-05-24,2,36,0,9,0,0.14,0.19,0
@@ -30,3 +28,4 @@ data,nuovi_positivi,nuovi_positivi_media_mobile,deceduti_giornalieri,terapia_int
 2021-06-17,23,19,2,1,0,0.42,0.58,0.11
 2021-06-18,23,19,1,1,0,0.46,0.54,0.26
 2021-06-19,15,16,1,1,0,0.22,0.32,0.07
+2021-06-20,7,15,0,1,0,0.2,0.35,0
