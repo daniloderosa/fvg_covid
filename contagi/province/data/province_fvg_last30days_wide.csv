@@ -1,6 +1,4 @@
 data,Udine,Udine_mediamobile,Pordenone,Pordenone_mediamobile,Trieste,Trieste_mediamobile,Gorizia,Gorizia_mediamobile
-2021-06-10,13,7,12,7,13,11,1,7
-2021-06-11,3,7,5,7,12,10,2,8
 2021-06-12,4,6,6,7,18,11,8,3
 2021-06-13,3,6,4,6,3,11,0,3
 2021-06-14,0,5,1,7,3,10,0,3
@@ -30,3 +28,5 @@ data,Udine,Udine_mediamobile,Pordenone,Pordenone_mediamobile,Trieste,Trieste_med
 2021-07-08,5,4,0,2,12,6,1,1
 2021-07-09,7,4,0,2,4,6,4,1
 2021-07-10,5,4,2,2,15,7,1,1
+2021-07-11,1,4,1,2,1,6,3,1
+2021-07-12,-1,4,2,2,14,8,0,1
