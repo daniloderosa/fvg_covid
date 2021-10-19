@@ -163,44 +163,63 @@ write_csv(province_fvg_oggi, file = "data/province_fvg_latest.csv")
 write_csv(province_fvg, file = "data/province_fvg_complessivo.csv")
 
 
-setwd("../../vaccini")
+# Incidenza
+popolazione_province <- readxl::read_xlsx("../../../Dataset Popolazione/Popolazione province.xlsx")
 
-età <- read_csv("https://raw.githubusercontent.com/italia/covid19-opendata-vaccini/master/dati/somministrazioni-vaccini-latest.csv")
-
-fvg_età <- età %>% 
-  filter(
-    area == "FVG"
-  )
-
-fvg_filter_età <- fvg_età %>% 
-  select(
-    data_somministrazione,
-    fascia_anagrafica,
-    sesso_femminile,
-    sesso_maschile
-  )
-
-fvg_filter_età <- fvg_filter_età %>% 
-  group_by(fascia_anagrafica) %>% 
-  summarise(
-    donne = sum(sesso_femminile),
-    uomini = sum(sesso_maschile) 
-  )
+incidenza <- province_fvg_wide %>% 
+  select(data, Udine, Pordenone, Trieste, Gorizia) %>% 
+  mutate(nuovi_positivi_Udine = round(rollsumr(Udine, k = 7, fill = 0)),
+         nuovi_positivi_Pordenone = round(rollsumr(Pordenone, k = 7, fill = 0)),
+         nuovi_positivi_Trieste = round(rollsumr(Trieste, k = 7, fill = 0)),
+         nuovi_positivi_Gorizia = round(rollsumr(Gorizia, k = 7, fill = 0)),
+         incidenza_Udine = round((nuovi_positivi_Udine/526474)*100000),
+         incidenza_Pordenone = round((nuovi_positivi_Pordenone/310502)*100000),
+         incidenza_Trieste = round((nuovi_positivi_Trieste/231445)*100000),
+         incidenza_Gorizia = round((nuovi_positivi_Gorizia/137795)*100000)) %>% 
+  filter(data > Sys.Date() - 24)
+write_csv(incidenza, file = "data/incidenza_province_fvg.csv")
 
 
-fvg_vaccini_età_giornaliero <- fvg_età
 
-
-Johnson_Johnson <- fvg_vaccini_età_giornaliero %>% 
-  filter(fornitore == "Janssen")
-
-Johnson_Johnson$seconda_dose = Johnson_Johnson$prima_dose
-Johnson_Johnson$prima_dose = 0
-
-nonJohnson_Johnson <- fvg_vaccini_età_giornaliero %>% 
-  filter(fornitore != "Janssen")
-
-fvg_vaccini_età_giornaliero <- rbind(nonJohnson_Johnson, Johnson_Johnson)
-
-write_csv(fvg_filter_età, file = "eta_sesso.csv")
-write_csv(fvg_vaccini_età_giornaliero, file = "vaccini_fvg_giornaliero_età.csv")
+# Vaccini
+# setwd("../../vaccini")
+# 
+# età <- read_csv("https://raw.githubusercontent.com/italia/covid19-opendata-vaccini/master/dati/somministrazioni-vaccini-latest.csv")
+# 
+# fvg_età <- età %>% 
+#   filter(
+#     area == "FVG"
+#   )
+# 
+# fvg_filter_età <- fvg_età %>% 
+#   select(
+#     data_somministrazione,
+#     fascia_anagrafica,
+#     sesso_femminile,
+#     sesso_maschile
+#   )
+# 
+# fvg_filter_età <- fvg_filter_età %>% 
+#   group_by(fascia_anagrafica) %>% 
+#   summarise(
+#     donne = sum(sesso_femminile),
+#     uomini = sum(sesso_maschile) 
+#   )
+# 
+# 
+# fvg_vaccini_età_giornaliero <- fvg_età
+# 
+# 
+# Johnson_Johnson <- fvg_vaccini_età_giornaliero %>% 
+#   filter(fornitore == "Janssen")
+# 
+# Johnson_Johnson$seconda_dose = Johnson_Johnson$prima_dose
+# Johnson_Johnson$prima_dose = 0
+# 
+# nonJohnson_Johnson <- fvg_vaccini_età_giornaliero %>% 
+#   filter(fornitore != "Janssen")
+# 
+# fvg_vaccini_età_giornaliero <- rbind(nonJohnson_Johnson, Johnson_Johnson)
+# 
+# write_csv(fvg_filter_età, file = "eta_sesso.csv")
+# write_csv(fvg_vaccini_età_giornaliero, file = "vaccini_fvg_giornaliero_età.csv")
