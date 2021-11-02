@@ -1,5 +1,4 @@
 data,Udine,Pordenone,Trieste,Gorizia,nuovi_positivi_Udine,nuovi_positivi_Pordenone,nuovi_positivi_Trieste,nuovi_positivi_Gorizia,incidenza_Udine,incidenza_Pordenone,incidenza_Trieste,incidenza_Gorizia
-2021-10-09,12,10,28,5,133,64,166,42,25,21,72,30
 2021-10-10,8,6,15,8,113,62,175,46,21,20,76,33
 2021-10-11,0,2,27,0,109,61,191,46,21,20,83,33
 2021-10-12,13,13,31,3,109,62,211,39,21,20,91,28
@@ -22,3 +21,4 @@ data,Udine,Pordenone,Trieste,Gorizia,nuovi_positivi_Udine,nuovi_positivi_Pordeno
 2021-10-29,66,32,124,39,296,141,651,181,56,45,281,131
 2021-10-30,60,25,135,26,317,148,706,198,60,48,305,144
 2021-10-31,76,28,153,35,373,163,801,181,71,52,346,131
+2021-11-01,21,7,43,1,391,169,777,182,74,54,336,132
