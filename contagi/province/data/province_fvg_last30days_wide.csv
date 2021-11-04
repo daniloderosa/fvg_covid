@@ -1,6 +1,4 @@
 data,Udine,Udine_mediamobile,Pordenone,Pordenone_mediamobile,Trieste,Trieste_mediamobile,Gorizia,Gorizia_mediamobile
-2021-10-03,28,17,8,15,6,30,4,6
-2021-10-04,4,17,3,15,11,30,0,6
 2021-10-05,13,16,12,15,11,29,10,7
 2021-10-06,29,18,15,15,55,30,9,8
 2021-10-07,16,17,9,15,34,24,9,8
@@ -29,3 +27,5 @@ data,Udine,Udine_mediamobile,Pordenone,Pordenone_mediamobile,Trieste,Trieste_med
 2021-10-30,60,45,25,21,135,101,26,28
 2021-10-31,76,53,28,23,153,114,35,26
 2021-11-01,21,56,7,24,43,111,1,26
+2021-11-02,12,50,6,20,141,124,0,24
+2021-11-03,53,50,22,21,63,111,11,22
